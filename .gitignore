@@ -128,3 +128,35 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+web/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pyenv
+.python-version
+
+# pyenv environment
+.python-version
+
+# pip packages
+*.pip
+

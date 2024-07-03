@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 0, 0, 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 240, 240, 240;
+    --background-end-rgb: 246, 246, 246;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set the root container to flex and make it cover the full height of the viewport */
+
+/* Create a flex container with a column direction */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Set the content area to grow and fill the available space */
+:root {
+  flex: 1;
+  min-height: 100vh;
+}
