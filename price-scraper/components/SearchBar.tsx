@@ -1,15 +1,24 @@
 'use client'
 import React, {useState} from 'react'
 
+interface User {
+  id: number;
+  name: string;
+  username: string;
+  email: string;
+}
 
+interface SearchBarProps {
+  setResults: (results: User[]) => void;
+}
 
-export default function SearchBar({setResults}) {
-  const [input, setInput] = useState("")
+export default function SearchBar({setResults}: SearchBarProps) {
+  const [input, setInput] = useState<string>("")
 
-  const fetchData = (value) => {
+  const fetchData = (value: string) => {
     fetch("https://jsonplaceholder.typicode.com/users")
     .then((response) => response.json())
-    .then(json => {
+    .then((json: User[]) => {
         const results = json.filter((user) => {
             return value && user && user.name && user.name.toLowerCase().includes(value)
         })
@@ -17,7 +26,7 @@ export default function SearchBar({setResults}) {
     })
   }
 
-  const handleChange = (value) => {
+  const handleChange = (value: string) => {
     setInput(value)
     fetchData(value)
   }

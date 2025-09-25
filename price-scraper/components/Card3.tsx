@@ -1,8 +1,14 @@
 import React from 'react'
 import Image from 'next/image'
 
+interface Card3Props {
+  name: string;
+  img: string;
+  price: string;
+  link: string;
+}
 
-export default function card3({name, img, price, link}) {
+export default function card3({name, img, price, link}: Card3Props) {
   return (
     
       <div className="p-5 bg-white rounded-md mt-4 mx-2 flex items-center max-w-2xl">

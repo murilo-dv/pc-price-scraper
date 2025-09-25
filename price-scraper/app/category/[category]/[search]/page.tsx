@@ -8,6 +8,7 @@ import Products3 from '../../../api/2023-12-06/centrecom_data_desktops.json'
 import Products4 from '../../../api/2023-12-06/centrecom_data_laptops.json'
 import Hero from '@/components/Hero'
 import { useSearchParams } from 'next/navigation'
+import { Product } from '@/app/types'
 
 const products = [...Products,...Products2,...Products3,...Products4]
 
@@ -39,6 +40,7 @@ export default function Category({ params }: { params: {category: string, search
               link = {product.link}
               image =  {product.image}
               category = {product.category}
+              store = "centrecom"
               />
             </div>
         );

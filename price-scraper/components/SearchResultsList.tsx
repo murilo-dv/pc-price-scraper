@@ -1,6 +1,17 @@
 import React from 'react'
 
-export default function SearchResultsList({results}) {
+interface User {
+  id: number;
+  name: string;
+  username: string;
+  email: string;
+}
+
+interface SearchResultsListProps {
+  results: User[];
+}
+
+export default function SearchResultsList({results}: SearchResultsListProps) {
   return (
     <div>
         {

@@ -6,25 +6,27 @@ import Card2 from '@/components/Card2';
 import Filters from '@/components/Filters';
 import allData from '@/app/api/dataloader';
 import {MagnifyingGlassIcon} from '@heroicons/react/24/solid'
+import { Product } from '@/app/types';
 
-export default function page() {
+export default function Page() {
     const searchParams = useSearchParams()
-    const search = searchParams.get('query')
+    const search = searchParams.get('query') ?? '';
+    console.log("Search query:", search);
     const productsPerPage = 12;
     const [currentPage, setCurrentPage] = useState(1);
     const [selectedStore, setSelectedStore] = useState('');
     const [selectedSort, setSelectedSort] = useState('default'); 
 
-    const filteredProducts = allData.filter((product) =>
-    (search.toLowerCase() === '' || product.product.toLowerCase().includes(search)) &&
-    (selectedStore === '' || product.store === selectedStore)
+    const filteredProducts = allData.filter((Product) =>
+    (search.toLowerCase() === '' || Product.product.toLowerCase().includes(search)) &&
+    (selectedStore === '' || Product.store === selectedStore)
   );
   const sortedProducts = filteredProducts.sort((a, b) => {
     switch (selectedSort) {
       case 'priceLowToHigh':
-        return a.price - b.price;
+        return parseFloat(a.price.replace('$', '')) - parseFloat(b.price.replace('$', ''));
       case 'priceHighToLow':
-        return b.price - a.price;
+        return parseFloat(b.price.replace('$', '')) - parseFloat(a.price.replace('$', ''));
       case 'nameAtoZ':
         return a.product.localeCompare(b.product);
       case 'nameZtoA':

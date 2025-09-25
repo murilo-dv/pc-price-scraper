@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
-import Products from '../app/api/centrecom_data.json'
+import Products from '../app/api/dataloader'
+import { Product } from '../app/types'
 
 export default function card() {
   return (

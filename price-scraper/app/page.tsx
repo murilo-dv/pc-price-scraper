@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { useRouter } from 'next/navigation'
 import Image from "next/image";
 import Hero from "@/components/Hero";
-import img_cpu from "@/public/assets/images/CPU.webp"
+import img_cpu from "@/public/assets/images/cpu.webp"
 import img_laptop from "@/public/assets/images/laptop.webp"
 import img_apple from "@/public/assets/images/apple.webp"
 import img_monitor from "@/public/assets/images/monitor.webp"
@@ -19,7 +19,7 @@ export default function Home() {
     router.push(`/search?query=${encodeURIComponent(searchQuery)}`);
   };
 
-  const handleKeyPress = (e) => {
+  const handleKeyPress = (e: React.KeyboardEvent<HTMLInputElement>) => {
     // Check if the pressed key is Enter (key code 13)
     if (e.key === "Enter") {
       handleSearch();
@@ -59,6 +59,7 @@ export default function Home() {
               <div className="bg-white rounded-md w-56 h-56 flex justify-center items-center">
               <Image 
                 src={img_laptop}
+                alt="Laptops Category"
                 width={200}
                 height={200}
                 />
@@ -72,6 +73,7 @@ export default function Home() {
               <div className="bg-white rounded-md w-56 h-56 flex justify-center items-center">
               <Image 
                 src={img_apple}
+                alt="Apple Category"
                 width={200}
                 height={200}
                 />
@@ -85,6 +87,7 @@ export default function Home() {
               <div className="bg-white rounded-md w-56 h-56 flex justify-center items-center">
               <Image 
                 src={img_monitor}
+                alt="Monitors Category"
                 width={200}
                 height={200}
                 />
@@ -98,6 +101,7 @@ export default function Home() {
               <div className="bg-white rounded-md w-56 h-56 flex justify-center items-center">
               <Image 
                 src={img_ssd}
+                alt="SSD Category"
                 width={200}
                 height={200}
                 />
@@ -111,6 +115,7 @@ export default function Home() {
               <div className="bg-white rounded-md w-56 h-56 flex justify-center items-center">
                 <Image 
                 src={img_cpu}
+                alt="CPU Processors Category"
                 width={200}
                 height={200}
                 />

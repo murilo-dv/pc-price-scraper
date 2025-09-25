@@ -23,9 +23,9 @@ export default function Category({ params }: { params: { category: string; searc
   const sortedProducts = filteredProducts.sort((a, b) => {
     switch (selectedSort) {
       case 'priceLowToHigh':
-        return a.price - b.price;
+        return parseFloat(a.price.replace('$', '')) - parseFloat(b.price.replace('$', ''));
       case 'priceHighToLow':
-        return b.price - a.price;
+        return parseFloat(b.price.replace('$', '')) - parseFloat(a.price.replace('$', ''));
       case 'nameAtoZ':
         return a.product.localeCompare(b.product);
       case 'nameZtoA':

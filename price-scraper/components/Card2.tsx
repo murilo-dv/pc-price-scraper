@@ -5,10 +5,17 @@ import centrecom from '@/public/assets/images/centrecom_logo.svg'
 import umart from '@/public/assets/images/umart_logo.png'
 import mwave from '@/public/assets/images/mwave_logo.jpeg'
 
+interface Card2Props {
+  productName: string;
+  price: string;
+  link: string;
+  image: string;
+  category: string;
+  store: string;
+}
 
-
-export default function card({productName, price, link, image, category, store}) {
-  const getStoreLogo = (store) => {
+export default function card({productName, price, link, image, category, store}: Card2Props) {
+  const getStoreLogo = (store: string) => {
     switch (store) {
       case 'centrecom':
         return centrecom;
