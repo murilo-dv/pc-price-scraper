@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  price-scraper:
+    build: .
+    container_name: price-scraper
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+    restart: always
+    command: npm start
