@@ -1,0 +1,3426 @@
+[
+    {
+        "product":"HP Series 5 524DA 23.8\" FHD IPS 100Hz Business Monitor",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-524da-238-fhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0222056_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP251L E2 24.5\" FHD IPS 120Hz Business Productivity Monitor",
+        "price":"$94",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp251l-e2-245-fhd-ips-120hz-business-productivity-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0209910_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP341CQ 34\" Ultra-wide QHD VA 100Hz Curved Business Monitor",
+        "price":"$344",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp341cq-34-ultra-wide-qhd-va-100hz-curved-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0165731_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro ED320QRS3 31.5\u201d FHD VA 180Hz Curved Gaming Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-ed320qrs3-315-fhd-va-165hz-curved-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0156942_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG27ACS-W 27\" QHD Fast IPS 180Hz 1ms Gaming Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg27acs-w-27-qhd-fast-ips-180hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0196817_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 346CQ  34\" UWQHD VA 180Hz AdaptiveSync Gaming Monitor",
+        "price":"$369",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-346cq-34-uwqhd-va-180hz-adaptivesync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0225093_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 24E1N1100D 23.8\" FHD IPS 100Hz Adaptive Sync Monitor",
+        "price":"$109",
+        "link":"https:\/\/centrecom.com.au\/philips-24e1n1100d-238-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0179820_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2790 27\" FHD IPS 100Hz 5ms EYE-CARE Home Monitor",
+        "price":"$129",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2790-27-fhd-ips-100hz-5ms-home-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0176562_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2425HE 24\" FHD IPS 100Hz USB-C Hub Monitor",
+        "price":"$268",
+        "link":"https:\/\/centrecom.com.au\/dell-p2425he-24-fhd-ips-100hz-usb-c-hub-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0197656_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus XG27UCDMG ROG Strix 27\" 4K QD-OLED 240Hz G-SYNC Gaming Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/asus-xg27ucdmg-rog-strix-27-4k-qd-oled-240hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0218131_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2725H 27\" FHD IPS 100Hz Monitor",
+        "price":"$239",
+        "link":"https:\/\/centrecom.com.au\/dell-p2725h-27-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0189453_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP273A 27\" FHD IPS 100Hz Speakers Monitor",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp273a-27-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0149879_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2490T 23.8\" FHD IPS 100Hz Eye-Care Home Office Monitor",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2490t-238-fhd-ips-100hz-eye-care-home-office-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204954_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI G255F 24.5\" FHD Rapid IPS 180Hz 1ms FreeSync Gaming Monitor",
+        "price":"$138",
+        "link":"https:\/\/centrecom.com.au\/msi-g255f-245-fhd-rapid-ips-180hz-1ms-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0174155_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S27F320 27\" FHD IPS 120Hz Essential Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/samsung-s27f320-27-fhd-ips-120hz-essential-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0219886_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2790T 27\" FHD IPS 100Hz Eye-Care Home Office Monitor",
+        "price":"$219",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2790t-27-fhd-100hz-ips-eye-care-home-office-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0190093_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24B20JH2 23.8\" FHD IPS 100Hz 1ms Adaptive-sync Monitor",
+        "price":"$85",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b20jh2-238-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0178185_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP E24I G4 24\" LED 1920 x 1200 5ms Monitor",
+        "price":"$255",
+        "link":"https:\/\/centrecom.com.au\/hp-e24i-g4-24-led-1920-x-1200-5ms-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0094597_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Strix XG32UCG 31.5\" 4K 160Hz\/ FHD 320Hz Dual Mode IPS G-Sync Gaming Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg32ucg-315-4k-160hz-fhd-320hz-dual-mode-ips-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0227631_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S32GF 24\" FHD IPS 120Hz LED Monitor",
+        "price":"$119",
+        "link":"https:\/\/centrecom.com.au\/samsung-s32gf-24-fhd-ips-120hz-led-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0208168_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP E27 G5 27\" FHD IPS 75Hz Business Monitor",
+        "price":"$269",
+        "link":"https:\/\/centrecom.com.au\/hp-e27-g5-27-fhd-ips-75hz-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0177205_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G55C 27\" QHD 165Hz Curved Gaming Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g55c-27-qhd-165hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0171377_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 275QF 27\" WQHD Rapid IPS 180Hz 0.5ms Adaptive-Sync Gaming Monitor",
+        "price":"$238",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-275qf-27-wqhd-rapid-ips-180hz-05ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0186695_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte GS25F2 25\" FHD IPS 200Hz FreeSync Gaming Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-gs25f2-25-fhd-ips-200hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0208464_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 27\u201d QHD IPS 180Hz G-Sync Gaming Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-27-qhd-ips-180hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0193607_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2425H 23.8\" FHD IPS 100Hz Montor",
+        "price":"$195",
+        "link":"https:\/\/centrecom.com.au\/dell-p2425h-238-fhd-ips-100hz-montor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0197681_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G55C 32\" QHD VA 165Hz FreeSync Curved Gaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g55c-32-qhd-va-165hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0171504_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro ED273S3 27\" FHD VA 180Hz FreeSync Curved Gaming Monitor",
+        "price":"$168",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-ed273s3-27-fhd-va-180hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0158514_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP341CQW 34\" UWQHD VA 21:9 100Hz Curved Business Monitor - White",
+        "price":"$344",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp341cqw-34-uwqhd-va-219-100hz-curved-business-monitor-white",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0176448_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro ED343CUR V3 34\" UWQHD VA 180Hz FreeSync Curved Monitor",
+        "price":"$369",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-ed343cur-v3-34-uwqhd-va-180hz-freesync-curved-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0177621_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G11E 27\" QHD Fast IPS 180Hz Gaming Monitor",
+        "price":"$209",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g11e-27-qhd-ips-180hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0218087_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G5 34\" UltraWide QHD 165Hz FreeSync Curved Gaming Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g55-165hz-34-curved-qhd-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0092587_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC CQ27G4 27\" QHD VA 180Hz Adaptive-Sync Curved Gaming Monitor",
+        "price":"$198",
+        "link":"https:\/\/centrecom.com.au\/aoc-cq27g4-27-qhd-va-180hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0201770_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP273AW 27\u201d FHD IPS 100Hz 1ms Business Monitor - White",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp273aw-27-fhd-ips-100hz-1ms-business-monitor-white",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0161436_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2490 23.8\" FHD IPS 100Hz Eye-Care Home Monitor",
+        "price":"$99",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2490-238-fhd-ips-100hz-home-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204058_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G50D 32\" QHD IPS 180Hz G-sync Gaming Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g50d-32-qhd-ips-180hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0206895_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2725HE 27\" FHD IPS 100Hz USB-C Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/dell-p2725he-27-fhd-ips-100hz-usb-c-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0201965_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34BP65C-B 34\" UltraWide QHD VA 1ms 160Hz Curved Monitor",
+        "price":"$445",
+        "link":"https:\/\/centrecom.com.au\/lg-34bp65c-b-ultrawide-34-qhd-va-1ms-160hz-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0174556_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 27GR93U-B 27\" UHD 4K IPS 144Hz Gaming Monitor",
+        "price":"$739",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-27gr93u-b-27-uhd-4k-144hz-g-sync-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0157386_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 275F 27\" FHD Rapid IPS 180Hz 0.5ms Gaming Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-275f-27-rapid-ips-fhd-180hz-05ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0181296_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte MO27Q2 27\" QHD QD-OLED 240Hz Gaming Monitor",
+        "price":"$779",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-mo27q2-27-qhd-oled-240hz-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0208300_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 27\" FHD IPS Anti-glare Monitor with Speakers",
+        "price":"$219",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-27-fhd-ips-anti-glare-monitor-with-speakers",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0216084_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell Pro 27 Plus 27\" UHD 4K IPS 100Hz USB-C Hub Monitor",
+        "price":"$589",
+        "link":"https:\/\/centrecom.com.au\/dell-pro-27-plus-27-uhd-4k-ips-usb-c-hub-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0216950_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell Pro 27 Plus 27\" QHD IPS 100Hz USB-C Business Monitor",
+        "price":"$479",
+        "link":"https:\/\/centrecom.com.au\/dell-pro-27-plus-27-qhd-ips-100hz-usb-c-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0218679_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 342CQR E2 34\" UWQHD VA 180Hz Adaptive-Sync Curved Gaming Monitor",
+        "price":"$398",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-342cqr-e2-34-uwqhd-va-180hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0186640_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 25G4S 24.5\" FHD Fast-IPS 310Hz G-syncGaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/aoc-25g4s-245-fhd-ips-310hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0218155_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24G11ZE 23.8\" FHD Fast IPS 240Hz Adaptive Sync Gaming Monitor",
+        "price":"$158",
+        "link":"https:\/\/centrecom.com.au\/aoc-24g11ze-238-fhd-fast-ips-240hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0219278_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Swift OLED PG27AQDP 27\" WOLED 480Hz G-SYNC Gaming Monitor",
+        "price":"$1,489",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-swift-oled-pg27aqdp-27-woled-480hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0193364_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC C27G4Z 27\" FHD VA 280Hz Adaptive-Sync Curved Gaming Monitor",
+        "price":"$309",
+        "link":"https:\/\/centrecom.com.au\/aoc-c27g4z-27-fhd-va-280hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0192119_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24G4 23.8\" FHD IPS 180Hz HDR10 Adaptive Sync Gaming Monitor",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/aoc-24g4-238-fhd-ips-180hz-hdr10-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0166568_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey OLED G8 34\" WQHD 175Hz FreeSync Curved Gaming Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-oled-g8-34-wqhd-175hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0188210_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Strix XG27UCG 27\" Dual Mode 4K 160Hz\/FHD 320Hz IPS Gaming Monitor",
+        "price":"$659",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg27ucg-27-dual-mode-4k-160hzfhd-320hz-ips-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0199783_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34WQ75C-B 34\" UltraWide QHD IPS Type-C Curved Monitor",
+        "price":"$619",
+        "link":"https:\/\/centrecom.com.au\/lg-34wq75c-b-34-219-ultrawide-qhd-curved-ips-type-c-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0149326_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey OLED G6 G61SD 27\" QHD 240Hz FreeSync Gaming Monitor",
+        "price":"$749",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-oled-g6-g61sd-27-qhd-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0196635_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N1100AW 27\" FHD IPS 1ms Monitor - White",
+        "price":"$129",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n1100aw-27-fhd-ips-1ms-monitor-white",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185414_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS VA259HGA 25\"  IPS FHD 120Hz 1ms Eye Care Gaming Monitor",
+        "price":"$129",
+        "link":"https:\/\/centrecom.com.au\/asus-va259hga-25-ips-fhd-120hz-1ms-eye-care-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0228213_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte GS32Q 31.5\" QHD SS IPS 165Hz\/OC 170Hz FreeSync Gaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-gs32q-315-qhd-ss-ips-165hzoc-170hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0197092_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S50GC 34\" UltraWide QHD 100Hz FreeSync Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/samsung-s50gc-34-wqhd-100hz-freesync-viewfinity-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0149526_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27B36H3 27\" FHD IPS 120Hz 1ms Frameless Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/aoc-27b36h3-27-fhd-ips-120hz-1ms-frameless-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0219589_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G7 G75F 37\" 4K UHD VA 165Hz 1ms Curved Gaming Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g7-g75f-37-4k-uhd-va-165hz-1ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0226596_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion R34w-30 34\" WQHD VA 180Hz FreeSync Curved Monitor",
+        "price":"$447",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-r34w-30-34-wqhd-va-180hz-curved-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0214585_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G7 G75F 40\" WUHD VA 180Hz Curved Gaming Monitor",
+        "price":"$1,599",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g7-g75f-40-wuhd-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0226968_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP251 E2 24.5\" FHD IPS 120Hz Speakers Monitor",
+        "price":"$119",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp251-e2-245-fhd-ips-120hz-speakers-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0203815_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2424HT 23.8\" Touch USB-C 90W PD Hub Monitor",
+        "price":"$419",
+        "link":"https:\/\/centrecom.com.au\/dell-p2424ht-238-touch-usb-c-90w-pd-hub-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0161016_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P3424WE 34\" WQHD IPS USB-C Hub Curved Monitor",
+        "price":"$679",
+        "link":"https:\/\/centrecom.com.au\/dell-p3424we-34-wqhd-ips-usb-c-hub-curved-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0168015_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 24GS50F-B 24\" FHD VA 180Hz HDR10 1ms FreeSync Gaming Monitor",
+        "price":"$129",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-24-fhd-va-180hz-hdr10-1ms-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0188755_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro KG241Y X1 23.8\" FHD IPS 200Hz FreeSync 0.5ms Gaming Monitor",
+        "price":"$129",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-kg241y-x1-238-fhd-ips-200hz-freesync-05ms-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0198734_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell U2424HE 24\" FHD IPS 120Hz USB-C Hub Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/dell-u2424he-24-fhd-ips-usb-c-hub-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0165517_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Strix OLED XG27ACDNG 27\" QD-OLED 360Hz G-SYNC Gaming Monitor",
+        "price":"$1,249",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-oled-xg27acdng-27-qd-oled-360hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0194056_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey OLED G8 G81SF 27\" 4K 240Hz FreeSync Gaming Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-oled-g8-g81sf-27-4k-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0210402_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro ED270U S3 27\" WQHD VA 180Hz FreeSync Curved Gaming Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-ed270u-s3-27-wqhd-va-180hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0177618_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Swift OLED PG27UCDM 27\" 4K QD-OLED 240Hz G-Sync Gaming Monitor",
+        "price":"$1,899",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-swift-oled-pg27ucdm-27-4k-qd-oled-240hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0202464_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 273QP QD-OLED X24 26.5\" WQHD 240Hz Gaming Monitor",
+        "price":"$828",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-273qp-qd-oled-x24-265-wqhd-240hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0210082_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP E24mv G4 23.8\" FHD IPS Pop-up Webcam Conferencing Monitor",
+        "price":"$340",
+        "link":"https:\/\/centrecom.com.au\/hp-e24mv-g4-238-fhd-ips-pop-up-webcam-conferencing-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0106305_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P3424WEB 34\" WQHD IPS Curved Video Conferencing Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/dell-p3424web-34-wqhd-ips-curved-video-conferencing-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0189418_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC U27G42 27\" UHD IPS 1ms 160Hz Adaptive Sync Monitor",
+        "price":"$469",
+        "link":"https:\/\/centrecom.com.au\/aoc-u27g42-27-uhd-ips-1ms-160hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0204941_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion R27fc-30 27\" FHD VA 280Hz Freesync Curved Monitor - Raven Black",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-r27fc-30-27-fhd-va-280hz-freesync-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0210652_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte GS32QCA 31.5\" QHD VA 180Hz Curved Gaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-gs32qca-315-qhd-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0214842_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell Pro Plus P3425WE 34\" WQHD IPS USB-C Hub Curved Monitor",
+        "price":"$729",
+        "link":"https:\/\/centrecom.com.au\/dell-pro-plus-p3425we-34-wqhd-ips-usb-c-hub-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0221537_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Swift OLED PG32UCDM 32\" 4K QD-OLED 240Hz 0.03ms Gaming Monitor",
+        "price":"$2,089",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-swift-oled-pg32ucdm-32-4k-qd-oled-240hz-003ms-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0174524_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus TUF Gaming VG27AQ3A 27\" QHD IPS 180Hz G-Sync Compatible FreeSync Premium Gaming Monitor",
+        "price":"$264",
+        "link":"https:\/\/centrecom.com.au\/asus-tuf-gaming-vg27aq3a-27-qhd-ips-180hz-g-sync-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0157327_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27E3QAF 27\" FHD IPS 75Hz Adaptive-Sync Monitor",
+        "price":"$214",
+        "link":"https:\/\/centrecom.com.au\/aoc-27e3qaf-27-fhd-ips-75hz-adaptivesync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0177947_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N1100D 27\" FHD IPS 100Hz Adaptive Sync Monitor",
+        "price":"$125",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n1100d-27-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0179890_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2723D 27\" QHD IPS 60Hz Business Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/dell-p2723d-27-qhd-ips-60hz-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0227329_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp U3223QE 32\" 4K IPS 8ms USB-C Hub Monitor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-u3223qe-32-4k-ips-8ms-usb-c-hub-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0121703_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G6 G60SF 27\" QHD QD-OLED 500Hz G-Sync Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g6-g60sf-27-qhd-oled-500hz-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0222688_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ROG Swift PG27AQN 27\" QHD 360Hz G-SYNC eSports Gaming Monitor",
+        "price":"$949",
+        "link":"https:\/\/centrecom.com.au\/asus-pg27aqn-rog-swift-360hz-pg27aqn-g-sync-esports-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0139291_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey OLED G8 G81SF 32\" 4K 240Hz FreeSync Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-oled-g8-g81sf-32-4k-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0210407_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34WQ500-B 34\" UltraWide Full HD IPS 100Hz FreeSync Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/lg-34wq500-b-34-ultrawide-full-hd-ips-100hz-freesync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0226487_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer XZ322QU V3 31.5\" QHD VA 180Hz Curved Gaming Monitor",
+        "price":"$319",
+        "link":"https:\/\/centrecom.com.au\/acer-xz322qu-v3-315-qhd-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0189819_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS VY279HGR 27\" FHD IPS 120Hz (OC) 1ms Adaptive Sync Gaming Monitor",
+        "price":"$145",
+        "link":"https:\/\/centrecom.com.au\/asus-vy279hgr-27-fhd-ips-120hz-oc-1ms-adaptive-sync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0203862_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro EI491CUR S 49\" UltraWide DQHD 120Hz Curved Gaming Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-ei491cur-s-49-120hz-va-widescreen-gaming-lcd-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0147224_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion R45w-30 44.5\" Dual QHD VA 170Hz FreeSync Curved Gaming Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-r45w-30-445-dual-qhd-va-170hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0171872_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S60UD 32\" QHD IPS 100Hz HDR10 Monitor",
+        "price":"$509",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s60ud-32-qhd-ips-100hz-hdr10-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0180692_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp 34\" WQHD IPS 120Hz Thunderbolt Curved Monitor",
+        "price":"$1,279",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-34-wqhd-ips-120hz-thunderbolt-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0188268_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ZenScreen MQ16AHE 16\" FHD OLED 60Hz Portable Monitor",
+        "price":"$498",
+        "link":"https:\/\/centrecom.com.au\/asus-zenscreen-mq16ahe-16-fhd-oled-60hz-portable-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0198766_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell U2725QE UltraSharp 27\" UHD IPS 120Hz Thunderbolt Hub Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/dell-u2725qe-ultrasharp-27-uhd-ips-120hz-thunderbolt-hub-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0215614_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 16T20 15.6\" FHD IPS Portable Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/aoc-16t20-156-fhd-ips-portable-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0222694_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp 27\" QHD IPS 120Hz Thunderbolt Hub Monitor",
+        "price":"$559",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-27-qhd-ips-120hz-thunderbolt-hub-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0165835_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 255XF 25\" FHD Rapid IPS 300Hz 0.5ms Gaming Monitor",
+        "price":"$269",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-255xf-25-fhd-rapid-ips-300hz-05ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0199656_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 32GS95UV-B 32\u201d OLED Dual Mode 4K UHD 240 Hz\/480Hz Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-32gs95uv-b-32-oled-dual-mode-4k-uhd-240-hz480hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0197819_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S70D 27\" UHD IPS 60Hz HDR10 Monitor",
+        "price":"$309",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s70d-27-uhd-ips-60hz-hdr10-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0180883_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 321CURX QD-OLED 31.5\u201d UHD 240Hz Adaptive-Sync Curved Monitor",
+        "price":"$1,599",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-321curx-qd-oled-315-uhd-qd-oled-240hz-adaptive-sync-curved-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0199735_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC CU34G4 34\" WQHD VA 180Hz 1ms Adaptive-Sync Curved Gaming Monitor",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/aoc-cu34g4-34-wqhd-va-180hz-1ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0218228_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G4Z 27\" QHD Fast IPS 260Hz 0.3ms Adaptive-Sync Gaming Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g4z-27-qhd-fast-ips-260hz-03ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0218255_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey Neo G85B 32\" UHD QLED 240Hz Curved Gaming Monitor",
+        "price":"$1,039",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-neo-g85b-32-240hz-curved-qled-uhd-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0128053_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX3276-2K-MHD-2 32\" QHD SuperClear IPS Entertainment Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx3276-2k-mhd-2-32-qhd-ips-entertainment-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0161444_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX2479-HD-PRO 24\u201d FHD 180Hz 1ms FreeSync Gaming Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx2479-hd-pro-24-fhd-180hz-1ms-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0184260_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27B1U3900 27\" 4K UHD IPS Business Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/philips-27b1u3900-27-4k-uhd-ips-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0225934_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP273U 27\" UHD IPS 4ms 60Hz Business Monitor",
+        "price":"$259",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp273u-27-uhd-ips-4ms-60hz-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0186665_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G4F 27\" QHD Fast IPS 180Hz 0.5ms Gaming Monitor",
+        "price":"$326",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g4f-27-qhd-fast-ips-180hz-05ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0192712_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro KG271X1 27\" FHD IPS 200Hz 1ms Gaming Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-kg271x1umhx1sa101-ry0-27-ips-fhd-200hz-1ms-spk-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0198011_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 24BA750-B 24\u201d FHD IPS 100Hz Type-C Monitor",
+        "price":"$315",
+        "link":"https:\/\/centrecom.com.au\/lg-24ba750-b-24-fhd-ips-100hz-type-c-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0204353_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G7 G70D 32\" UHD IPS 144Hz G-Sync Gaming Monitor",
+        "price":"$749",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g7-g70d-32-uhd-144hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0207122_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - BenQ GW2490 23.8\" FHD IPS 100Hz Home Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-benq-gw2490-238-fhd-ips-100hz-home-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0218114_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP245G 23.8\" FHD IPS 100Hz 1ms Business Monitor - Black",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp245g-238-fhd-ips-100hz-1ms-business-monitor-black",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0221334_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung LS24D600UEEXXY 24\" QHD IPS 100Hz Business Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/samsung-ls24d600ueexxy-24-qhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0223979_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 346CQRF X24 34\" UWQHD Rapid VA 240Hz Curved Gaming Monitor",
+        "price":"$699",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-346cqrf-x24-34-uwqhd-va-240hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224481_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 32B1U3900 32\" 4K UHD VA Business Monitor",
+        "price":"$629",
+        "link":"https:\/\/centrecom.com.au\/philips-32b1u3900-32-4k-uhd-va-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0225917_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 438P1 43\" 4K UHD IPS W-LED Monitor",
+        "price":"$549",
+        "link":"https:\/\/centrecom.com.au\/philips-438p1-43-4k-uhd-ips-w-led-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0084773_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung QET 43\" UHD LED Crystal Processor 4K Professional Display",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/samsung-qet-43-uhd-led-crystal-processor-4k-professional-display",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0177804_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 275CQRXF 27\" WQHD Rapid VA 240Hz 0.5ms Curved Gaming Monitor",
+        "price":"$419",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-275cqrxf-27-wqhd-rapid-va-240hz-05ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0195039_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dahua Explorer LM32-U400PN 32\" 4K VA 60Hz Movable Smart Display",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/dahua-explorer-lm32-u400pn-32-4k-va-60hz-movable-smart-display",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0201188_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo ThinkVision T32h-30 31.5\" QHD IPS 60Hz Business Monitor",
+        "price":"$499",
+        "link":"https:\/\/centrecom.com.au\/lenovo-thinkvision-t32h-30-315-qhd-ips-60hz-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204678_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S40GD 24\" FHD IPS 100Hz Business Monitor",
+        "price":"$165",
+        "link":"https:\/\/centrecom.com.au\/samsung-s40gd-24-fhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0206482_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S80UD 37\" 4K UHD VA 60Hz Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s80ud-37-4k-uhd-va-60hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0209876_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion Glasses (Gen 2)",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-glasses-2",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0213126_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 Pro 23.8 FHD IPS 100Hz 100W PD USB-C Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-pro-238-fhd-ips-100w-pd-usb-c-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0216543_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E2N1500L 27\" QHD IPS 75Hz HDR Business Monitor",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/philips-27e2n1500l-27-qhd-ips-75hz-hdr-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0222525_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34GX90SA-W UltraGear 34\" WQHD OLED 240Hz Curved Smart Gaming Monitor",
+        "price":"$2,099",
+        "link":"https:\/\/centrecom.com.au\/lg-34gx90sa-w-ultragear-34-wqhd-oled-240hz-curved-smart-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0222577_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 40WP95C-W 40\" UltraWide 5K FreeSync Nano IPS Curved Monitor",
+        "price":"$1,899",
+        "link":"https:\/\/centrecom.com.au\/lg-40wp95c-w-40-wuhd-5k2k-nano-ips-curved-ultrawide-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0123981_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 28MQ780-B 27.6\" SDQHD Nano IPS USB-C DualUp Ergo Monitor",
+        "price":"$1,149",
+        "link":"https:\/\/centrecom.com.au\/lg-28mq780-b-276-sdqhd-nano-ips-usb-c-dualup-ergo-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0165669_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 491CQP QD-OLED 49\" DQHD 144Hz Adaptive Sync Curved Gaming Monitor",
+        "price":"$1,549",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-491cqp-qd-oled-49-dqhd-144hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0173108_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24E3QAF 23.8\" FHD IPS 75Hz Adaptive-Sync Monitor",
+        "price":"$185",
+        "link":"https:\/\/centrecom.com.au\/aoc-24e3qaf-238-fhd-ips-75hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0177958_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 341CQPX QD-OLED 34.18\" UWQHD 240Hz 0.03ms Curved Gaming Monitor",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-341cqpx-qd-oled-3418-uwqhd-240hz-003ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0182363_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27B1U5601H 27\" QHD IPS 5MP Webcam Business Monitor",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/philips-27b1u5601h-27-qhd-ips-5mp-webcam-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185158_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic TD2223-2 22\u201d FHD VA Touch Screen Monitor",
+        "price":"$499",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-td2223-2-22-fhd-va-touch-screen-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0186701_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 3000 32\" QHD VA 180Hz FreeSync Curved Gaming Monitor",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-3000-32-qhd-va-180hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0195918_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27UP850K-W 27\" UHD IPS 60Hz FreeSync DisplayHDR 400 Monitor",
+        "price":"$488",
+        "link":"https:\/\/centrecom.com.au\/lg-27up850k-w-27-uhd-ips-60hz-freesync-displayhdr-400-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204306_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G7 G70D 27\" UHD IPS 144Hz G-Sync Gaming Monitor",
+        "price":"$649",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g7-g70d-27-uhd-ips-144hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0207281_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI Pro MP275PG 27\" FHD IPS 100Hz Business Monitor",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp275pg-27-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0215116_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 274QPF X30MV 27\" WQHD Rapid VA 300Hz Adaptive-Sync Gaming Monitor",
+        "price":"$539",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-274qpf-x30mv-27-wqhd-rapid-va-300hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0220853_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung LS27D602UEEXXY 27\" QHD IPS 100Hz Business Monitor",
+        "price":"$469",
+        "link":"https:\/\/centrecom.com.au\/samsung-ls27d602ueexxy-27-qhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0223974_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo ThinkVision T24v-30 23.8\" FHD IPS 75Hz Business Monitor",
+        "price":"$369",
+        "link":"https:\/\/centrecom.com.au\/lenovo-thinkvision-t24v-30-238-fhd-ips-75hz-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0224431_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 39GX90SA-W 39\" WQHD OLED 240Hz Curved Smart Gaming Monitor",
+        "price":"$1,799",
+        "link":"https:\/\/centrecom.com.au\/lg-39gx90sa-w-39-wqhd-oled-240hz-curved-smart-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0226513_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 242R X60N 24\" FHD TN 600Hz FreeSync Premium Gaming Monitor",
+        "price":"$1,599",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-242r-x60n-24-fhd-tn-600hz-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0227028_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 32E1N3500 31.5\" QHD IPS 100Hz HDR Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/philips-32e1n3500-315-qhd-ips-100hz-hdr-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0228256_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 242B1 23.8\" FHD IPS 4ms 75Hz PowerSensor Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/philips-242b1-24-ips-4ms-75hz-monitor-with-powersensor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0099320_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Cooler Master 27\" UHD 160Hz Ultra-Speed IPS Gaming Monitor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/cooler-master-27-uhd-160hz-auo-ahva-ultra-speed-ips-167m-colors-8bit-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0142888_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 49B2U5900CH 48.8\" Dual QHD VA 32:9 USB-C SuperWide Curved Business Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/philips-49b2u5900ch-488-dual-qhd-va-329-usb-c-superwide-curved-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0171849_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC CQ32G4E 31.5\" QHD VA 180Hz Adaptive-Sync Curved Gaming Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/aoc-cq32g4e-315-qhd-180hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185338_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 322URX QD-OLED 31.5\" 4K UHD 240Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$1,749",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-322urx-qd-oled-315-4k-uhd-240hz-003ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0202342_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD2706U 27\" 4K UHD P3 DisplayHDR 400 USB-C Designer Monitor",
+        "price":"$735",
+        "link":"https:\/\/centrecom.com.au\/benq-pd2706u-27-4k-uhd-p3-displayhdr-400-usb-c-designer-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204038_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ ZOWIE XL2546X+ 24.1\" FHD TN 280Hz DyAc 2 Esports Gaming Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/benq-zowie-xl2546x-241-fhd-tn-280hz-dyac-2-esports-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0204461_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S39D 27\" FHD VA 100Hz Curved Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/samsung-s39d-27-fhd-100hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0208186_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27BR550Y-C 27\" FHD IPS 75Hz 5ms Monitor with Speaker",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/lg-27br550y-c-27-fhd-ips-5ms-monitor-with-speaker",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0210953_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion Pro 34WD-10 34\" WQHD OLED 240Hz Curved Monitor - Raven Black",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-pro-34wd-10-34-wqhd-oled-240hz-curved-monitor-raven-black",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0214246_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro XV275UP3 27\" WQHD MiniLED VA 170Hz FreeSync Gaming Monitor",
+        "price":"$549",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-xv275up3-27-wqhd-mini-led-170hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0214548_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 32BR50C-B 31.5\" FHD VA 100Hz FreeSync Curved Monitor",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/lg-32br50c-b-315-fhd-va-100hz-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0220480_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD3226G 32\" 4K UHD IPS 144Hz Professional Monitor",
+        "price":"$1,899",
+        "link":"https:\/\/centrecom.com.au\/benq-pd3226g-32-4k-uhd-ips-144hz-professional-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0222702_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic TD1655 16\" FHD Touch Portable Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-td1655-16-fhd-touch-ips-portable-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0097016_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX2719-PC-MHD 27\" 1ms 240Hz Adaptive Sync Curved Gaming Monitor",
+        "price":"$269",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx2719-pc-mhd-27-1ms-240hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0105046_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ DesignVue PD3205U 31.5\" 4K UHD FreeSync USB-C HDR10 Monitor for Graphic, Web or Art Design",
+        "price":"$865",
+        "link":"https:\/\/centrecom.com.au\/benq-designvue-pd3205u-315-4k-usb-c-srgb-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0129319_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S65VC 34\"  WQHD Webcam Curved Business Monitor",
+        "price":"$679",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s65vc-34-wqhd-webcam-curved-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0156466_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 25G3ZM 24.5\u2019\u2019 FHD VA 240Hz Gaming Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/aoc-25g3zm-245-fhd-va-240hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0158422_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI G274QPX 27\" WQHD Rapid IPS 240Hz G-Sync Gaming Monitor",
+        "price":"$569",
+        "link":"https:\/\/centrecom.com.au\/msi-g274qpx-27-wqhd-rapid-ips-240hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0159330_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 24B1U5301H 23.8\" FHD IPS Webcam USB-C Docking Monitor",
+        "price":"$412",
+        "link":"https:\/\/centrecom.com.au\/philips-24b1u5301h-238-fhd-ips-webcam-usb-c-docking-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0162463_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG401QR 40\" UWQHD IPS 155Hz Ultra Wide Gaming Monitor",
+        "price":"$655",
+        "link":"https:\/\/centrecom.com.au\/msi-mag401qr-40-uwqhd-ips-155hz-ultra-wide-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0167437_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic 27C4KPDWT Clarity Pro Touch 27\" UHD 4K IPS Webcam Touchscreen Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/alogic-27c4kpdwt-clarity-pro-touch-27-uhd-4k-ips-webcam-touch-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0176612_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung 55\" UHD LED Crystal Processor 4K QET Professional Display",
+        "price":"$849",
+        "link":"https:\/\/centrecom.com.au\/samsung-55-uhd-led-crystal-processor-4k-qet-professional-display",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0178138_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung QBC 24\" FHD IP5X Wi-Fi Professional Display",
+        "price":"$575",
+        "link":"https:\/\/centrecom.com.au\/samsung-qbc-24-fhd-ip5x-wi-fi-professional-display",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0178861_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VA2708-2K-MHD 27\" 2K QHD IPS 100Hz Gaming Monitor",
+        "price":"$265",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-va2708-2k-mhd-27-2k-qhd-ips-100hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0184290_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 32C6 31.5\" FHD VA 180Hz 1ms Gaming Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-32c6-315-fhd-va-180hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0185392_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte M32UP 31.5\" SS IPS UHD 160Hz 1ms Gaming Monitor",
+        "price":"$779",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-m32up-315-ss-ips-uhd-160hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0196978_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24B30H2\/BW 24\" FHD IPS 120Hz AdaptiveSync Monitor - White",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b30h2bw-24-fhd-ips-120hz-adaptivesync-monitor-white",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0201356_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ProArt Display PA27JCV 27\" 5K HDR IPS 60Hz Professional Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-pa27jcv-27-5k-hdr-ips-60hz-professional-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0201959_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 325CQRXF 32\" WQHD Rapid VA 280Hz Curved Gaming Monitor",
+        "price":"$545",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-325cqrxf-32-wqhd-rapid-va-280hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0202636_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD2725U 27\" 4K UHD P3 Thunderbolt 3 Mac Compatible Designer Monitor",
+        "price":"$1,059",
+        "link":"https:\/\/centrecom.com.au\/benq-pd2725u-27-4k-uhd-p3-thunderbolt-3-mac-compatible-designer-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204046_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S70D 37\" UHD VA 60Hz HDR10 Monitor",
+        "price":"$479",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s70d-37-uhd-va-60hz-hdr10-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0216510_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP245PG 23.8\" FHD IPS 100Hz Business Monitor",
+        "price":"$179",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp245pg-238-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0216813_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Viewsonic XG275D1-4K 27\" UHD IPS 160Hz Dual Mode FreeSync Gaming Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-xg275d1-4k-27-dual-mode-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0217987_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VA1655 -3 16\" FHD IPS 60Hz USB-C Lightweight Portable Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-va1655-16-fhd-ips-60hz-usb-c-portable-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0219601_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - AOC 27G15N 27\" FHD VA 180Hz Adaptive-Sync Gaming Monitor",
+        "price":"$226",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-aoc-27g15n-27-fhd-va-180hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0219655_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic 27C5KPDT Clarity Touch 27\" UHD 5K IPS Touchscreen Monitor",
+        "price":"$1,899",
+        "link":"https:\/\/centrecom.com.au\/alogic-27c5kpdt-clarity-touch-27-uhd-5k-ips-touchscreen-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0220822_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD2730S 27\" 5K IPS 60Hz Professional Monitor",
+        "price":"$1,999",
+        "link":"https:\/\/centrecom.com.au\/benq-pd2730s-27-5k-ips-60hz-professional-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222707_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N8500 27\" QHD QD OLED 360Hz FreeSync Gaming Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n8500-27-qhd-qd-oled-360hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0222754_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 321CQF E18 32\" WQHD Rapid VA 180Hz Curved Gaming Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-321cqf-e18-32-wqhd-rapid-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0224488_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S60UD 32\" QHD IPS 100Hz FreeSync Monitor",
+        "price":"$519",
+        "link":"https:\/\/centrecom.com.au\/samsung-32-169-qhd-ips-monitor-dp-hdmi-hdr10-usb-c-usb-lan-kvm-hadj-vesa-3y",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0224635_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - AOC 24B15H2 23.8\" FHD IPS 100Hz Adaptive-Sync Monitor",
+        "price":"$99",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-aoc-24b15h2-238-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0225951_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 6000 26.5\" QD OLED 280Hz Adaptive-sync Gaming Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-6000-265-qd-oled-280hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0226403_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N3500PF 27\" QHD Fast IPS 260Hz Adaptive-sync Gaming Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n3500pf-27-qhd-fast-ips-260hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0226435_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2C5200W 27\" FHD Fast VA 280Hz Curved Gaming Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2c5200w-27-fhd-fast-va-280hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0226443_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 6000 Series 34\" UWQHD VA 120Hz Curved Business Monitor",
+        "price":"$1,249",
+        "link":"https:\/\/centrecom.com.au\/philips-6000-series-34-uwqhd-va-120hz-curved-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0227299_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 7 Pro 31.5\" 4K UHD IPS 60Hz Thunderbolt 4 Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/hp-series-7-pro-315-4k-ips-60hz-thunderbolt-4-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0227771_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung UJ590 32\" UHD FreeSync 4ms Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/samsung-j590-32-4k-uhd-1609-led-3840x2160-4ms-2x-hdmi-1x-dp-dark-blue-gray-vesa-3y",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0062457_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung T45F 27\" FHD 75Hz IPS FreeSync Business Monitor",
+        "price":"$217",
+        "link":"https:\/\/centrecom.com.au\/samsung-t45f-27-freesync-ips-led-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0089947_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q32V3S\/WS 31.5\" WQHD IPS 75Hz 5ms Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/aoc-q32v3sws-315-wqhd-75hz-5ms-ips-led-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0093832_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 272S1AE 27\" FHD IPS SmartErgoBase Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/philips-272s1ae-27-wled-ips-smartergobase-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0097379_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 243B1\/75 23.8\" FHD IPS LCD monitor with USB-C",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/philips-243b175-fhd-ips-lcd-monitor-with-usb-c",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0098821_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus VA27AQSB 27\" 75Hz Adaptive Sync 1ms Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/asus-va27aqsb-27-2k-75hz-1ms-dphdmi-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0137111_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC C32G2ZE 31.5\" FHD VA 240Hz FreeSync Curved Gaming Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/aoc-c32g2ze-315-05ms-240hz-fhd-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0119013_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34WQ650-W 34\u201d UltraWide FHD FreeSync IPS Monitor",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/lg-34-ultrawide-fhd-vesa-displayhdr-400-freesync-ips-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0128592_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ Mobiuz EX3210U 32\" UHD HDR 144Hz FreeSync 1ms HDR600 IPS Gaming Monitor",
+        "price":"$1,349",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-ex3210u-32-uhd-hdr-144hz-freesync-1ms-hdr600-ips-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0129350_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 32GN50R UltraGear 31.5\" FHD 165Hz G-SYNC 1ms MBR Gaming Monitor",
+        "price":"$219",
+        "link":"https:\/\/centrecom.com.au\/lg-32gn50r-315-g-sync-ultragear-fhd-165hz-1ms-mbr-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0140795_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G55 32\" QHD 144Hz FreeSync Curved Gaming Monitor",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g55-32-curved-qhd-144hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0142572_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI G321Q 32\" WQHD IPS 170Hz G-Sync 1ms Gaming Monitor",
+        "price":"$358",
+        "link":"https:\/\/centrecom.com.au\/msi-g321q-32-wqhd-ips-170hz-g-sync-1ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0143092_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S80PB 32\" UHD HDR Business Monitor",
+        "price":"$739",
+        "link":"https:\/\/centrecom.com.au\/samsung-32-viewfinity-s80pb-uhd-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0146605_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Swift OLED PG27AQDM 27\" 1440p 240Hz G-Sync Gaming Monitor",
+        "price":"$1,129",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-swift-oled-pg27aqdm-27-1440p-oled-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0148284_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt PA27UCX-K 27\" 4K HDR Mini LED Professional Monitor",
+        "price":"$2,899",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-pa27ucx-k-27-4k-hdr-mini-led-professional-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0151438_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 34M2C8600 34\" UltraWide QHD QD OLED 175Hz Curved Gaming Monitor",
+        "price":"$1,799",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-34m2c8600-34-ultrawide-qhd-qd-oled-175hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0154548_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 32GR93U-B 32\" UHD IPS 144Hz Gaming Monitor",
+        "price":"$719",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-32gr93u-b-32-uhd-ips-144hz-hdr400-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0157360_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo ThinkVision T24i-30 23.8\" FHD IPS 4ms Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/lenovo-thinkvision-t24i-30-238-fhd-ips-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0157832_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N5800E 27\" 4K UHD IPS Ergonomic Slim-frame Monitor",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n5800e-27-4k-uhd-ips-ergonomic-slim-frame-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0157995_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG27AQMR 27\" 2K QHD Fast IPS 300Hz 1ms G-Sync Gaming Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg27aqmr-27-2k-qhd-fast-ips-300hz-1ms-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0165817_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27G4 27\" FHD Fast IPS 180Hz 0.5ms Gaming Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/aoc-27g4-27-fhd-fast-ips-180hz-05ms-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0191226_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S95UC 49\" DQHD VA 120Hz KVM Curved Business Monitor",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s95uc-49-dqhd-va-120hz-kvm-curved-business-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0168840_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27SR50F-W 27\" FHD IPS webOS Smart Monitor",
+        "price":"$328",
+        "link":"https:\/\/centrecom.com.au\/lg-27sr50f-w-27-fhd-ips-webos-smart-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0171398_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo G34w-30 34\" WQHD VA 170Hz FreeSync Curved Gaming Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/lenovo-g34w-30-34-wqhd-va-170hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0171856_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion Y34wz-30 34\" WQHD Mini-LED 180Hz 1ms Ultrawide Curved Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-y34wz-30-34-wqhd-mini-led-180hz-1ms-ultrawide-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0171864_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP275Q 27\" WQHD IPS 100Hz 1ms EyesErgo Business Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp275q-27-wqhd-ips-100hz-1ms-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0174068_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 28MQ750-C 28\" SDQHD Nano IPS HDR10 DualUp Monitor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/lg-28mq750-c-28-sdqhd-nano-ips-hdr10-dualup-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0174564_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte AORUS FO32U2P 31.5\" OLED 240Hz FreeSync Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-aorus-fo32u2p-315-oled-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0177390_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte GS27FA 27\" FHD SuperSpeed IPS 180Hz FreeSync 1ms Gaming Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-gs27fa-27-fhd-superspeed-ips-180hz-freesync-1ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0177640_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34WP500-B 34'' UltraWide FHD IPS HDR 75Hz FreeSync Monitor",
+        "price":"$269",
+        "link":"https:\/\/centrecom.com.au\/lg-34wp500-b-34-ultrawide-fhd-ips-hdr-75hz-freesync-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0178920_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S60UD 24\" QHD IPS 100Hz Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s60ud-24-qhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0180708_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S60UD 27\" QHD IPS 100Hz HDR10 Monitor",
+        "price":"$439",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s60ud-27-qhd-ips-100hz-hdr10-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0180878_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S70D 32\u201d UHD VA 60Hz HDR10 Monitor",
+        "price":"$369",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s70d-32-uhd-va-60hz-hdr10-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0180888_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 274URF QD 27\" UHD Rapid IPS 160Hz 0.5ms HDR400 Gaming Monitor",
+        "price":"$603",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-274urf-qd-27-uhd-rapid-ips-160hz-05ms-hdr400-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0183768_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 3000 27\" FHD Fast IPS 180Hz HDR Gaming Monitor",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-3000-27-fhd-fast-ips-180hz-hdr-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0184495_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 3000 24\" FHD Fast IPS 180Hz HDR Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-3000-24-fhd-fast-ips-180hz-hdr-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0184507_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 1000 Series 23.8\" FHD IPS 100Hz 1ms Monitor",
+        "price":"$113",
+        "link":"https:\/\/centrecom.com.au\/philips-1000-series-238-fhd-ips-100hz-1ms-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0184613_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27B3HA2 27\" FHD IPS 100Hz 1ms AdaptiveSync Monitor",
+        "price":"$151",
+        "link":"https:\/\/centrecom.com.au\/aoc-27b3ha2-27-fhd-ips-100hz-1ms-adaptivesync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185138_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC U32V5N 31.5\" UHD VA HDR10 Monitor",
+        "price":"$319",
+        "link":"https:\/\/centrecom.com.au\/aoc-u32v5n-315-uhd-va-hdr10-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0185171_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraWide 38\" QHD+ IPS 144Hz G-SYNC FreeSync Curved Monitor",
+        "price":"$1,688",
+        "link":"https:\/\/centrecom.com.au\/lg-ultrawide-38-qhd-ips-144hz-g-sync-freesync-curved-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0185213_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S80PB 27\" UHD IPS USB Type-C 90W Business Monitor",
+        "price":"$559",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s80pb-27-uhd-ips-usb-type-c-90w-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185746_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G93SD 49\" DQHD OLED FreeSync 240Hz Curved Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g93sd-49-dqhd-oled-freesync-240hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0187993_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro XV345CURV 34\" UWQHD VA 180Hz FreeSync Curved Gaming Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-xv345curv-34-uwqhd-va-180hz-freesync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0189246_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 34WR50QK-B 34\" WQHD VA 100Hz Curved Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/lg-34wr50qk-b-34-wqhd-va-100hz-curved-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0191835_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte M27QA 27\" QHD SS IPS 180Hz 1ms Gaming Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-m27qa-27-qhd-ss-ips-180hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0192348_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC AGON PRO AG276QZD2 26.5\u201d QHD QD-OLED 240Hz Adaptive-Sync Gaming Monitor",
+        "price":"$1,049",
+        "link":"https:\/\/centrecom.com.au\/aoc-agon-pro-ag276qzd2-265-qhd-qd-oled-240hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0192708_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 34M2C3500L 34\" 180Hz WQHD Fast VA Curved Gaming Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-34m2c3500l-34-180hz-wqhd-fast-va-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0193380_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N3500NL 27\" QHD VA 180Hz Gaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n3500nl-27-qhd-va-180hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0193482_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 24E1N1200A 23.8\" FHD 100Hz 1ms Monitor",
+        "price":"$135",
+        "link":"https:\/\/centrecom.com.au\/philips-24e1n1200a-238-fhd-100hz-1ms-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0193645_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 49M2C8900 49\" QD OLED 240Hz Curved Gaming Monitor",
+        "price":"$1,799",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-49m2c8900-49-qd-oled-240hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0195924_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 27GS93QE-B 27\u201d OLED QHD 240Hz 0.03ms Gaming Monitor",
+        "price":"$749",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-27gs93qe-b-27-oled-qhd-240hz-003ms-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0197247_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G3ZE 27\" QHD Fast IPS 240Hz 0.5ms Gaming Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g3ze-27-qhd-fast-ips-240hz-05ms-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0197667_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 274URFW 27\" 4K UHD Rapid IPS 160Hz 0.5ms HDR400 Gaming Monitor",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-274urfw-27-4k-uhd-rapid-ips-160hz-05ms-hdr400-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0197937_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer EK271G 27\" FHD IPS 120Hz 1ms Monitor",
+        "price":"$126",
+        "link":"https:\/\/centrecom.com.au\/acer-ek271g-27-fhd-ips-120hz-1ms-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0198003_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer EK251Q G 24.5\" FHD IPS 120Hz 1ms Monitor",
+        "price":"$99",
+        "link":"https:\/\/centrecom.com.au\/acer-ek251q-g-245-fhd-ips-120hz-1ms-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0198008_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell E2425HS 24\" FHD VA 75Hz Monitor",
+        "price":"$179",
+        "link":"https:\/\/centrecom.com.au\/dell-e2425hs-24-fhd-va-75hz-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0201971_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 321CUPDF 31.5\" 4K UHD Rapid VA Dual Mode 160Hz\/320Hz HDR400 Curved Gaming Monitor",
+        "price":"$729",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-321cupdf-315-4k-uhd-rapid-va-dual-mode-160hz320hz-hdr400-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0202338_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 321URXW QD-OLED 31.5\" UHD 240Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-321urxw-qd-oled-315-uhd-240hz-003ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0202347_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 45GS95QE-B 45\" Ultra-WQHD OLED 240Hz Curved Gaming Monitor",
+        "price":"$1,799",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-45gs95qe-b-45-ultra-wqhd-oled-240hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0202810_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 32UN880K-B 31.5\" UltraFine UHD 4K IPS Monitor with USB Type-C",
+        "price":"$756",
+        "link":"https:\/\/centrecom.com.au\/lg-32un880k-b-315-ultrafine-uhd-4k-ips-monitor-with-usb-type-c",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0202817_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo N27q 27\" QHD IPS 100Hz Anti-glare Monitor",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/lenovo-n27q-27-qhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0203428_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG 272URX QD-OLED 26.5\" 4K UHD 240Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$1,449",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg-272urx-qd-oled-265-4k-uhd-240hz-003ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0203899_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 32UR550K-B UltraFine 31.5\" UHD VA 60Hz HDR10 Monitor",
+        "price":"$474",
+        "link":"https:\/\/centrecom.com.au\/lg-32ur550k-b-ultrafine-315-uhd-va-60hz-hdr10-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0204344_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ ZOWIE XL2586X+ 24.1\" FHD TN 600Hz DyAc 2 Esports Gaming Monitor",
+        "price":"$1,795",
+        "link":"https:\/\/centrecom.com.au\/benq-zowie-xl2586x-241-fhd-tn-600hz-dyac-2-gaming-esports-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0204448_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ ZOWIE XL2566X+ 24.1\" FHD TN 400Hz DyAc 2 Esports Gaming Monitor",
+        "price":"$1,095",
+        "link":"https:\/\/centrecom.com.au\/benq-zowie-xl2566x-241-fhd-tn-400hz-dyac-2-esports-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0204455_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ EX321UX 32\" UHD Mini-LED IPS 144Hz FreeSync Gaming Monitor",
+        "price":"$1,879",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-ex321ux-32-uhd-mini-led-ips-144hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0206389_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27G4E 27\" FHD Fast IPS 180Hz Adaptive-Sync Gaming Monitor",
+        "price":"$168",
+        "link":"https:\/\/centrecom.com.au\/aoc-27g4e-27-fhd-fast-ips-180hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0207377_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S39D 32\" FHD VA 100Hz Curved Monitor",
+        "price":"$209",
+        "link":"https:\/\/centrecom.com.au\/samsung-s39d-32-fhd-100hz-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0208176_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung S40GD 27\" FHD IPS 100Hz Business Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/samsung-s40gd-27-fhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0209653_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion R24e 23.8\" FHD IPS 180Hz Anti-glare FreeSync Monitor - Raven Black",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-r24e-238-fhd-ips-180hz-anti-glare-freesync-monitor-raven-black",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0210921_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC AG326UD 31.5\" UHD QD-OLED 165Hz Adaptive Sync Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/aoc-ag326ud-315-uhd-qd-oled-165hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0212188_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC AG346UCD 34\" UWQHD 175Hz QD-OLED Adaptive Sync 0.03ms Curved Gaming Monitor",
+        "price":"$1,339",
+        "link":"https:\/\/centrecom.com.au\/aoc-ag346ucd-34-uwqhd-175hz-qd-oled-adaptive-sync-003ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0212201_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24G42E 23.8\" FHD Fast IPS 180Hz Adaptive Sync Gaming Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/aoc-24g42e-238-fhd-fast-ips-180hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0212314_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G3ZN 27\" QHD Fast IPS 260Hz Adaptive Sync Gaming Monitor",
+        "price":"$459",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g3zn-27-qhd-fast-ips-260hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0212373_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MA320U 32\" 4K UHD IPS Monitor for MacBook Pro and MacBook Air",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/benq-ma320u-32-4k-uhd-ips-monitor-for-macbook-pro-and-macbook-air",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0212862_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 255F E20 24.5\" FHD Rapid IPS 200Hz Gaming Monitor",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-255f-e20-245-fhd-rapid-ips-200hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0212867_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte MO32U 31.5\" 4K UHD QD-OLED 165Hz FreeSync Gaming Monitor",
+        "price":"$1,159",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-mo32u-315-4k-qd-oled-165hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0214094_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte MO27U2 27\" 4K UHD QD-OLED 240Hz FreeSync G-Sync Gaming Monitor",
+        "price":"$1,068",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-mo27u2-27-4k-uhd-qd-oled-240hz-freesync-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0214106_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 Pro 27\" QHD IPS 100Hz USB-C 100W PD Monitor",
+        "price":"$509",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-pro-27-qhd-ips-100hz-usb-c-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0216196_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 276CF E20 27\" FHD Rapid VA 200Hz 0.5ms Curved Gaming Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-276cf-e20-27-fhd-rapid-va-200hz-05ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0216276_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2786TC 27\" FHD IPS 100Hz USB-C Daisy Chain Home Office Monitor",
+        "price":"$319",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2786tc-27-fhd-ips-100hz-usb-c-daisy-chain-home-office-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0216427_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey Neo G95NC 57\" DUHD QLED VA 240Hz Curved Gaming Monitor",
+        "price":"$3,199",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-neo-g95nc-57-duhd-qled-240hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0217199_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G42ZE 27\" QHD IPS 260Hz Adaptive Sync Gaming Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g42ze-27-qhd-ips-260hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0218078_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24B3CA3 23.8\" FHD IPS 120Hz 1ms USB-C Monitor",
+        "price":"$179",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b3ca3-238-fhd-ips-120hz-1ms-usb-c-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0220195_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 272QPW QD-OLED X28 27\" WQHD 280Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-272qpw-qd-oled-27-wqhd-oled-280hz-003ms-adaptivesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0220843_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 275CQF E18 27\" QHD Rapid VA 180Hz Curved Gaming Monitor",
+        "price":"$233",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-275cqf-e18-27-qhd-rapid-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0220945_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 45GX950A 44.5\" WUHD 165Hz \/ WFHD 330Hz Dual Mode 5K2K Adaptive-Sync Gaming Monitor",
+        "price":"$3,199",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-45gx950a-32-oled-dual-mode-5k2k-wuhd-330hz-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0222170_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 Pro 527PQ 27\" QHD IPS 100Hz Business Monitor",
+        "price":"$439",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-pro-527pq-27-qhd-ips-100hz-business-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222571_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 32M2N8900 31.5\" UHD QD OLED 240Hz Adaptive-Sync Gaming Monitor",
+        "price":"$1,999",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-32m2n8900-315-uhd-qd-oled-240hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0222712_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N2600A 27\" QHD IPS 120Hz 1ms Adaptive-Sync Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n2600a-27-qhd-ips-120hz-1ms-adaptive-sync-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0222720_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N8800 26.5\" UHD QD OLED 240Hz FreeSync Gaming Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n8800-265-4k-uhd-qd-oled-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222739_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N2300A 27\" FHD IPS 120Hz 1ms Adaptive-Sync Monitor",
+        "price":"$239",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n2300a-27-fhd-ips-120hz-1ms-adaptive-sync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222747_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 24E1N2300A 23.8\" FHD IPS 120Hz Adaptive-Sync Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/philips-24e1n2300a-238-fhd-ips-120hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222763_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N6500 26.5\" QHD QD OLED 240Hz FreeSync Gaming Monitor",
+        "price":"$749",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n6500-265-qhd-qd-oled-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222771_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 24M2N3200FQ 23.8\" FHD Fast IPS 200Hz Adaptive-sync Monitor",
+        "price":"$159",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-24m2n3200fq-238-fhd-fast-ips-200hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222779_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N3800F 27\" UHD IPS 160Hz Adaptive-Sync Gaming Monitor",
+        "price":"$429",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n3800f-27-uhd-ips-160hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222787_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N3200FQ 27\" FHD IPS 200Hz FreeSync Gaming Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n3200fq-27-fhd-ips-200hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0222801_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24B3HA3 23.8\" FHD IPS 120Hz AdaptiveSync Monitor",
+        "price":"$135",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b3ha3-238-fhd-ips-120hz-adaptivesync-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0223153_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Dell E-Series E2420H 23.8\" WLED IPS 60Hz Monitor",
+        "price":"$135",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-dell-e-series-e2420h-238-ips-wled-1920x1080-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0223349_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Dell P2722HE 27\" FHD IPS 60Hz 5ms USB-C Monitor",
+        "price":"$315",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-dell-p2722he-27-fhd-5ms-usb-c-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0223374_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Dell U2422HE UltraSharp  24\" FHD IPS 60Hz USB-C Hub Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-dell-u2422he-ultrasharp-24-fhd-169-usb-c-hub-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0223379_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - LG BK550Y 24\" FHD IPS LED 60Hz Business Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-lg-bk550y-24-fhd-ips-led-5ms-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0223490_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte M27UP 27\" Dual Mode UHD 160Hz\/ FHD 320Hz IPS G-Sync Gaming Monitor",
+        "price":"$499",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-m27up-27-uhd-ss-ips-160hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0223548_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27US550-W 27\" 4K UHD IPS 60Hz HDR10 Monitor",
+        "price":"$379",
+        "link":"https:\/\/centrecom.com.au\/lg-27us550-w-27-4k-uhd-ips-60hz-hdr10-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0223738_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - LG UltraGear 27\" QHD IPS 144Hz 1ms G-Sync Gaming Monitor",
+        "price":"$550",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-lg-ultragear-27-qhd-1ms-144hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0223744_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Philips 346E2LAE 34\" UltraWide QHD VA 100Hz USB-C Monitor",
+        "price":"$479",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-philips-346e2lae-34-ultrawide-qhd-va-100hz-usb-c-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0223831_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 27M2N8500X 26.5\" QHD QD OLED 500Hz Gaming Monitor",
+        "price":"$1,599",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-27m2n8500x-265-qhd-qd-oled-500hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0224107_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte M27Q3 27\" QHD SS IPS 300Hz\/ 320Hz OC 1ms Gaming Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-m27q3-27-qhd-ss-ips-300hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224649_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ZenScreen Fold 17.3\" QHD OLED 60Hz Foldable Portable Monitor",
+        "price":"$3,899",
+        "link":"https:\/\/centrecom.com.au\/asus-zenscreen-fold-173-qhd-oled-60hz-foldable-portable-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0224800_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 49\" Dual QD QLED 144Hz AdaptiveSync Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-49-dual-qd-qled-144hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0224806_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey 27\" 3D 4k UHD IPS 165Hz G-Sync Gaming Monitor",
+        "price":"$1,999",
+        "link":"https:\/\/centrecom.com.au\/samsung-ls27fg900xexxy-odyssey-27-4k-uhd-ips-165hz-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224853_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - LG 49WQ95C-W 49\" UltraWide Dual QHD 144Hz Nano IPS Curved Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-lg-49wq95c-w-49-ultrawide-dual-qhd-144hz-nano-ips-curved-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0226834_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - LG 34GS95QE-B 34\" Ultra-WQHD OLED 240Hz 0.03ms G-SYNC Curved Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-lg-34gs95qe-b-34-ultra-wqhd-oled-240hz-003ms-g-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0226845_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Samsung ViewFinity S65VC 34\"  WQHD Webcam Curved Business Monitor",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-samsung-viewfinity-s65vc-34-wqhd-webcam-curved-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0227162_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 242B9T 23.8\" FHD SmoothTouch Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/philips-242b9t-238-lcd-monitor-with-smoothtouch",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0065185_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ ZOWIE XL2540K 24.5\" FHD TN 240Hz LED Gaming Monitor",
+        "price":"$465",
+        "link":"https:\/\/centrecom.com.au\/benq-zowie-xl2540k-245-full-hd-240hz-led-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0114749_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 325B1L 31.5\" QHD IPS Smart Stand PowerSensor Monitor",
+        "price":"$399",
+        "link":"https:\/\/centrecom.com.au\/philips-325b1l75-315-qhd-ips-smart-stand-monitor-with-powersensor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0095405_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 276B1 27\" QHD Anti-Glare IPS Monitor with Speakers",
+        "price":"$389",
+        "link":"https:\/\/centrecom.com.au\/philips-276b1-27-qhd-anti-glare-ips-monitor-with-speakers",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0112578_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC AG493UCX2 49\" UltraWide Dual QHD 5K Adaptive-Sync 165Hz 1ms Curved Gaming Monitor",
+        "price":"$1,399",
+        "link":"https:\/\/centrecom.com.au\/aoc-ag493ucx2-49-5k-dual-qhd-adaptive-sync-165hz-1ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0128988_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC AGON AG275QXR 27\" QHD G-Sync 170Hz 1ms IPS Premium Gaming Monitor",
+        "price":"$489",
+        "link":"https:\/\/centrecom.com.au\/aoc-agon-ag275qxr-27-qhd-g-sync-170hz-1ms-ips-premium-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0135293_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX3276-MHD-3\t 32\" FHD IPS Adaptive Sync 75Hz LED Monitor",
+        "price":"$319",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-32-fhd-adaptive-sync-75hz-ips-led-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0142402_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp 43\" 4K IPS USB-C Hub Quadruple View Monitor",
+        "price":"$1,389",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-43-4k-ips-usb-c-hub-quadruple-view-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0144363_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD2705Q 27\" QHD 100% sRGB HDR USB-C Design Monitor",
+        "price":"$489",
+        "link":"https:\/\/centrecom.com.au\/benq-pd2705q-27-qhd-100-srgb-hdr-usb-c-design-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0147236_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic TD2455 24\u201d FHD Type-C Touch Monitor",
+        "price":"$906",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-td2455-24-in-cell-ips-anti-glare-type-c-touch-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0147647_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 49WQ95C-W 49\" UltraWide Dual QHD 144Hz Nano IPS Curved Monitor",
+        "price":"$1,799",
+        "link":"https:\/\/centrecom.com.au\/lg-49wq95c-w-49-ultrawide-dual-qhd-144hz-nano-ips-curved-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0149595_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27QP88D-BS Dual 27\" QHD IPS HDR10 Daisy Chain Monitor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/lg-27qp88d-bs-27-qhd-ips-hdr10-daisy-chain-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0150867_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt Display PA248CRV 24.1\" WUXGA IPS Professional Monitor",
+        "price":"$505",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-pa248crv-241-wuxga-ips-professional-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0155601_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG Gram +view 16\" WQXGA IPS Type-C Portable Monitor for LG Gram",
+        "price":"$429",
+        "link":"https:\/\/centrecom.com.au\/lg-gram-view-16-wqxga-ips-type-c-portable-monitor-for-lg-gram",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0156795_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips Evnia 31.5\" FHD VA 240Hz 0.5ms Curved Gaming Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/philips-evnia-315-fhd-va-240hz-05ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0160599_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp U2424H 24\" FHD IPS 120Hz Monitor",
+        "price":"$279",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-u2424h-24-fhd-ips-120hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0165840_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt PA169CDV 15.6\" 4K UHD IPS Touch Stylus Support Portable Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-pa169cdv-156-4k-uhd-ips-touch-stylus-support-display",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0170803_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 43SQ700S-W 43\" 4K UHD IPS USB-C Smart Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/lg-43sq700s-w-43-4k-uhd-ips-usb-c-smart-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0171719_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraFine 27BN88U-B 27\u201d UHD 4K IPS Type-C DisplayHDR 400 Monitor",
+        "price":"$629",
+        "link":"https:\/\/centrecom.com.au\/lg-27bn88u-b-27-uhd-4k-ips-ultrafine-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0174184_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung QET 50\" UHD Crystal Processor 4K Professional Display",
+        "price":"$699",
+        "link":"https:\/\/centrecom.com.au\/samsung-qet-50-uhd-crystal-processor-4k-professional-display",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0177794_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW3290QT 31.5\" 2K QHD USB-C Daisy Chain Ergonomic Home Monitor",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/benq-gw3290qt-315-2k-qhd-usb-c-daisy-chain-ergonomic-home-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0179752_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ PD3225U 32\u201d 4K IPS Thunderbolt 3 Designer Monitor",
+        "price":"$1,629",
+        "link":"https:\/\/centrecom.com.au\/benq-pd3225u-32-4k-ips-thunderbolt-3-designer-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0181272_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG32WCS 32\" QHD Fast VA 180Hz FreeSync Curved Monitor",
+        "price":"$408",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg32wcs-32-qhd-fast-va-180hz-freesync-curved-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0181870_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Viewsonic VX2758A-2K-PRO-3 27\" QHD IPS 240Hz Gaming Monitor",
+        "price":"$577",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx2758a-2k-pro-3-27-qhd-ips-240hz-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0183743_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus VG259Q3A 25\" FHD IPS 180Hz 1ms FreeSync Gaming Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/asus-vg259q3a-25-fhd-ips-180hz-1ms-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0183763_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 32E1N1800LA 31.5\" UltraClear 4K UHD VA HDR Monitor",
+        "price":"$369",
+        "link":"https:\/\/centrecom.com.au\/philips-32e1n1800la-315-ultraclear-4k-uhd-va-hdr-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0184487_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC U27B3AF 27\u2019\u2019 4K UHD IPS HDR10 Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/aoc-u27b3af-27-4k-uhd-ips-hdr10-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0185995_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 321UP QD-OLED 31.5\" UHD 165Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-321up-qd-oled-315-uhd-003ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0186560_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG32WCMS 32\" QHD Fast VA 280Hz Curved 1ms Gaming Monitor",
+        "price":"$589",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg32wcms-32-qhd-fast-va-280hz-curved-1ms-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0188251_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Cooler Master GP57ZS 57\" DUHD VA mini-LED 120Hz 1ms Curved Gaming Monitor",
+        "price":"$2,399",
+        "link":"https:\/\/centrecom.com.au\/cooler-master-gp57zs-57-duhd-va-mini-led-120hz-1ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0189577_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27B36 27\" QHD IPS 100Hz HDR10 Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27b36-27-qhd-ips-100hz-hdr10-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0190085_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG27UCG-W 27\" 4K UHD Fast IPS Dual Mode Gaming Monitor",
+        "price":"$779",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg27ucg-w-27-4k-uhd-fast-ips-dual-mode-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0191260_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 32GS75Q-B 31.5\" QHD IPS 180Hz DisplayHDR 400 Gaming Monitor",
+        "price":"$469",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-32gs75q-b-315-qhd-ips-180hz-displayhdr-400-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0191677_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 27E1N1200A 27\" FHD IPS 100Hz 1ms Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n1200a-27-fhd-ips-100hz-1ms-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0193614_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX3480-2K-PRO 34\" UWQHD VA 165Hz 1ms Gaming Monitor",
+        "price":"$424",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx3480-2k-pro-34-uwqhd-va-165hz-1ms-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0194070_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Viewsonic VA2708-4K-MHD 27\u201d 4K UHD SuperClear IPS HDR10 Monitor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-va2708-4k-mhd-27-4k-uhd-superclear-ips-hdr10-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0194085_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraFine 27US500-W 27\u201d UHD 4K IPS HDR10 Borderless Design Monitor - White",
+        "price":"$279",
+        "link":"https:\/\/centrecom.com.au\/lg-ultrafine-27us500-w-27-uhd-4k-ips-hdr10-borderless-design-monitor-white",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0195844_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP275QPDG 27\" WQHD 100Hz Adaptive-Sync Type-C Docking Business Monitor",
+        "price":"$479",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp275qpdg-27-wqhd-100hz-adaptive-sync-type-c-docking-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0199257_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell P2724DEB 27\" QHD IPS 60Hz 90W PD Conferencing Monitor",
+        "price":"$579",
+        "link":"https:\/\/centrecom.com.au\/dell-p2724deb-27-qhd-ips-60hz-90w-pd-conferencing-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0200620_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27B30H\/BW 27\" FHD IPS 120Hz AdaptiveSync Monitor - White",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/aoc-27b30hbw-27-fhd-ips-120hz-adaptivesync-monitor-white",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0201349_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell UltraSharp 49\" 5K Dual QHD IPS 60Hz USB-C Curved Monitor",
+        "price":"$1,999",
+        "link":"https:\/\/centrecom.com.au\/dell-ultrasharp-49-5k-dual-qhd-ips-60hz-usb-c-curved-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0203929_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2790QT 27\" 2K QHD USB-C Ergonomic Daisy Chain Eye-Care Monitor",
+        "price":"$459",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2790qt-27-2k-qhd-usb-c-ergonomic-daisy-chain-eye-care-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0204053_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ EX271U 27\u201d UHD IPS 165Hz FreeSync Gaming Monitor",
+        "price":"$759",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-ex271u-27-uhd-ips-165hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204110_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ 27\" FHD IPS 240Hz FreeSync Gaming Monitor",
+        "price":"$549",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-27-fhd-ips-240hz-freesync-gaming-monitors",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0204116_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ 27\u201d QHD IPS 180Hz FreeSync Gaming Monitor",
+        "price":"$465",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-27-qhd-ips-180hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0204126_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 24BA650-B 24\u201d FHD IPS 100Hz Type-C Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/lg-24ba650-b-24-fhd-ips-100hz-type-c-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0204360_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 24BA550-B 23.8\" FHD IPS 100Hz Business Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/lg-24ba550-b-238-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0204392_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Odyssey G50D 27\" QHD IPS 180Hz G-Sync Gaming Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/samsung-odyssey-g50d-27-qhd-ips-180hz-g-sync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0206890_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Dell Pro 24 Plus P2424HEB 23.8\" FHD IPS 60Hz Video Conferencing Monitor",
+        "price":"$433",
+        "link":"https:\/\/centrecom.com.au\/dell-pro-24-plus-p2424heb-238-fhd-ips-60hz-video-conferencing-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0208138_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG 27UP600K-W 27\" 4K UHD IPS 60Hz FreeSync Monitor",
+        "price":"$385",
+        "link":"https:\/\/centrecom.com.au\/lg-27up600k-w-27-4k-uhd-ips-60hz-freesync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0208894_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ EX271 27\" FHD IPS 180Hz FreeSync Gaming Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-ex271-27-fhd-ips-180hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0209280_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MOBIUZ EX251 25\" FHD IPS 220Hz FreeSync Gaming Monitor",
+        "price":"$259",
+        "link":"https:\/\/centrecom.com.au\/benq-mobiuz-ex251-25-fhd-ips-220hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0209287_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27G42E 27\" FHD Fast IPS 180Hz 0.5ms Adaptive Sync Monitor",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/aoc-27g42e-27-fhd-fast-ips-180hz-05ms-adaptive-sync-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0212181_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ MA270U 27\" 4K UHD IPS 60Hz Monitor for MacBook Pro and MacBook Air",
+        "price":"$749",
+        "link":"https:\/\/centrecom.com.au\/benq-ma270u-27-4k-uhd-monitor-for-macbook-pro-and-macbook-air",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0212804_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 Pro 23.8\" FHD IPS 100Hz Monitor",
+        "price":"$279",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-pro-238-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0213388_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Nitro XV275KP3 27\" 4K UHD MiniLED IPS 160Hz FreeSync Gaming Monitor",
+        "price":"$829",
+        "link":"https:\/\/centrecom.com.au\/acer-nitro-xv275kp3-27-miniled-ips-160hz-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0214556_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI Pro MP275QPG 27\" WQHD IPS 100Hz 1ms Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp275qpg-27-2k-1440p-ips-100hz-1ms-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0215180_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC Q27G40XMN 27\" QHD QD-MiniLED VA 180Hz Adaptive Sync Gaming Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/aoc-q27g40xmn-27-qhd-qd-miniled-va-180hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0216389_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BenQ GW2486TC 23.8 \" FHD 100Hz IPS USB-C Home Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/benq-gw2486tc-238-fhd-100hz-ips-usb-c-home-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0216779_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27G11ZE2 27\" FHD Fast IPS 240Hz 0.3ms Adaptive-Sync Gaming Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/aoc-27g11ze2-27-fhd-fast-ips-240hz-03ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0218241_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC U27B35 27\" 4K UHD IPS 60Hz HDR10 Monitor",
+        "price":"$299",
+        "link":"https:\/\/centrecom.com.au\/aoc-u27b35-27-4k-uhd-ips-hdr10-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0218353_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27B3CA3 27\" FHD IPS 120Hz 1ms USB-C Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/aoc-27b3ca3-27-fhd-ips-120hz-1ms-usb-c-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0219414_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 22B15HN 21.45\" FHD VA 100Hz Adaptive-Sync Monitor",
+        "price":"$92",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b20jh2-2145-fhd-va-100hz-adaptive-sync-gaming",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0220338_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 272QP X50 27\" WQHD QD-OLED 500Hz 0.03ms Adaptive-Sync Gaming Monitor",
+        "price":"$1,358",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-272qp-x50-27-wqhd-qd-oled-500hz-003ms-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0220832_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MPG\u00a0274URDFW\u00a0E16M 27\" UHD 160Hz \/ FHD 320Hz Dual Mode IPS Adaptive-Sync Gaming Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/msi-mpg274urdfwe16m-27-4kfhd-ips-160hz320hz-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0220921_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC CU34G4Z 34\" WQHD VA 240Hz Adaptive-Sync Curved Gaming Monitor",
+        "price":"$649",
+        "link":"https:\/\/centrecom.com.au\/aoc-cu34g4z-34-wqhd-va-240hz-adaptive-sync-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0220934_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips  27E1N1800A\/75 27\" 4K UHD IPS 60Hz Adaptive-Sync Monitor",
+        "price":"$267",
+        "link":"https:\/\/centrecom.com.au\/philips-27e1n1800a-27-4k-uhd-ips-60hz-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0221143_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 3 Pro 23.8\" FHD IPS 100Hz Monitor",
+        "price":"$199",
+        "link":"https:\/\/centrecom.com.au\/hp-series-3-pro-238-fhd-100hz-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0221669_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 24B15H2 23.8\" FHD IPS 100Hz Adaptive-Sync Monitor",
+        "price":"$89",
+        "link":"https:\/\/centrecom.com.au\/aoc-24b15h2-238-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0221693_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI PRO MP225V 21.45\" FHD VA 100Hz 1ms Business Monitor - Black",
+        "price":"$99",
+        "link":"https:\/\/centrecom.com.au\/msi-pro-mp225v-2145-fhd-va-100hz-1ms-business-monitor-black",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0221810_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ASUS ZenScreen Touch MB16AMTR 16\" FHD IPS Portable Monitor",
+        "price":"$539",
+        "link":"https:\/\/centrecom.com.au\/asus-zenscreen-touch-mb16amtr-16-fhd-ips-portable-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0222080_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 45GX90SA-B 44.5\" OLED UWQHD 240Hz FreeSync Gaming Monitor",
+        "price":"$2,599",
+        "link":"https:\/\/centrecom.com.au\/lg-ultragear-45gx90sa-b-445-oled-uwqhd-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0222290_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AOC 27B3HA3 27\" FHD IPS 120Hz AdaptiveSync Gaming Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/aoc-27b3ha3-27-fhd-ips-120hz-adaptive-sync-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0223267_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"MSI MAG 275UPD E14 27\" 4K UHD IPS 144Hz Dual Mode Gaming Monitor",
+        "price":"$439",
+        "link":"https:\/\/centrecom.com.au\/msi-mag-275upd-e14-27-4k-uhd-ips-144hz-dual-mode-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0224048_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung LS27D402GEEXXY 27\" FHD IPS 100Hz FreeSync Business Monitor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/samsung-ls27d402geexxy-27-fhd-ips-100hz-freesync-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224137_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung Essential S4 24\" FHD IPS 100Hz FreeSync Business Monitor",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/samsung-ls24d402geexxy-24-fhd-ips-100hz-freesync-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0224390_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung QMC Pro Display 50\" UHD IPS 120Hz Professional Monitor - Black",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/samsung-qmc-pro-display-lh50qmcepgcxxy-50-uhd-ips-120hz-professional-monitor-black",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224565_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 3 Pro 327ph 27\" FHD IPS 100Hz Eye Ease Monitor",
+        "price":"$289",
+        "link":"https:\/\/centrecom.com.au\/hp-series-3-pro-327ph-27-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0224643_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 24B2N3200J 23.8\"  FHD IPS 120Hz Business Monitor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/philips-24b2n3200j-238-fhd-ips-120hz-business-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0226646_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung ViewFinity S9 S95UF 49\" DQHD VA 120Hz Curved Monitor",
+        "price":"$1,539",
+        "link":"https:\/\/centrecom.com.au\/samsung-viewfinity-s9-s95uf-49-dqhd-va-120hz-curved-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0227463_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion Pro 27Q-10 26.5\" QHD QD-OLED 280Hz FreeSync Gaming Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-27q-10-265-qhd-oled-280hz-freesync-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0227888_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion 32UD-10 31.5\" UHD OLED 240Hz FreeSync Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-32ud-10-315-uhd-oled-240hz-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0227898_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo Legion Pro 27UD-10 26.5\" UHD QD-OLED 240Hz FreeSync Monitor",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/lenovo-legion-pro-27ud-10-265-uhd-oled-240hz-freesync-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0227907_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 275B1 27\" QHD  IPS 75Hz Adaptive-Sync Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/philips-275b1-27-2560x1440-qhd-ips-75hz-169-w-led-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0085626_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 328B1 31.5\" 4K UHD VA  Anti-Glare Monitor",
+        "price":"$449",
+        "link":"https:\/\/centrecom.com.au\/philips-328b1-315-4k-uhd-anti-glare-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0095141_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 242S1AE 24\" FHD IPS Smart Stand Monitor",
+        "price":"$149",
+        "link":"https:\/\/centrecom.com.au\/philips-242s1ae75-24-fhd-ips-smart-stand-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0103233_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Viewsonic VX3418-2KPC-MHD 34\u201d 144Hz 1ms Curved Gaming Monitor",
+        "price":"$479",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx3418-2kpc-mhd-34-144hz-1ms-ultrawide-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0107446_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ZenScreen MB16ACV 15.6\" FHD IPS USB-C Portable Monitor",
+        "price":"$349",
+        "link":"https:\/\/centrecom.com.au\/asus-zenscreen-mb16acv-156-fhd-ips-usb-c-portable-usb-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0137069_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Samsung 43\" UDH 4K QBB 350nit Wi-Fi Professional Display",
+        "price":"$1,099",
+        "link":"https:\/\/centrecom.com.au\/samsung-43-udh-4k-qbb-professional-display",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0128490_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 32E1N3100LA 32\" FHD VA 1ms Monitor",
+        "price":"$279",
+        "link":"https:\/\/centrecom.com.au\/philips-32e1n3100la-32-fhd-va-1ms-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0149772_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt Display OLED PA32DC 31.5\" 4K UHD Professional Monitor",
+        "price":"$4,799",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-oled-pa32dc-315-4k-uhd-professional-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0152206_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt Display PA329CRV 31.5\" 4K UHD IPS USB-C Professional Monitor",
+        "price":"$1,026",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-pa329crv-315-4k-uhd-ips-usb-c-professional-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0154052_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ProArt  PA279CRV 27\" 4K IPS HDR 96W PD Professional Monitor",
+        "price":"$799",
+        "link":"https:\/\/centrecom.com.au\/asus-proart-display-pa279crv-27-4k-hdr-ips-96w-pd-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0157321_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Philips 346E2LAE 34\" UltraWide QHD VA 100Hz USB-C Monitor",
+        "price":"$579",
+        "link":"https:\/\/centrecom.com.au\/philips-34-ultrawide-qhd-va-100hz-usb-c-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0157990_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Swift Pro PG248QP 24.1\" E-TN FHD 540Hz G-SYNC Esports Gaming Monitor",
+        "price":"$1,189",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-swift-pro-pg248qp-241-e-tn-fhd-540hz-g-sync-esports-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0165254_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - Acer EB321HQA 31.5\" IPS FHD 4ms LED Monitor",
+        "price":"$139",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-acer-eb321hqa-315-ips-fhd-4ms-led-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0172757_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte AORUS FO27Q3 27\" QHD OLED 360Hz 0.03ms FreeSync Gaming Monitor",
+        "price":"$1,499",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-aorus-fo27q3-27-qhd-360hz-003ms-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0174754_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic 27F34KCPD Clarity 27\" UHD 4K IPS HDR600 Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/alogic-27f34kcpd-clarity-27-uhd-4k-ips-5ms-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0176605_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic 27C4KPDW Clarity Pro 27\" UHD 4K IPS HDR400 Monitor",
+        "price":"$1,149",
+        "link":"https:\/\/centrecom.com.au\/alogic-27c4kpdw-clarity-pro-27-uhd-4k-ips-hdr400-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0176619_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic Clarity Max Touch 32\" UHD 4K Webcam Touchscreen Monitor",
+        "price":"$1,599",
+        "link":"https:\/\/centrecom.com.au\/alogic-clarity-max-touch-32-uhd-4k-webcam-touchscreen-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0176625_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic Clarity Max 32\" UHD 4K IPS USB Hub HDR400 Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/alogic-clarity-max-32-uhd-4k-ips-hdr400-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0176633_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Alogic Clarity Max Pro 32\" UHD 4K IPS HDR400 Monitor",
+        "price":"$1,199",
+        "link":"https:\/\/centrecom.com.au\/alogic-clarity-max-pro-32-uhd-4k-ips-hdr400-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0176643_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Asus ROG Strix XG27ACS 27\" QHD IPS 1ms 180Hz Type-C Gaming Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/asus-rog-strix-xg27acs-27-qhd-ips-1ms-180hz-type-c-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0176752_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - LG UltraGear 27GR93U-B 27\" UHD 4K IPS 144Hz Gaming Monitor",
+        "price":"$699",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-lg-ultragear-27gr93u-b-27-uhd-4k-ips-144hz-gaming-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0177152_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Gigabyte MO34WQC2 34\" WQHD OLED 240Hz 0.03ms Curved Gaming Monitor",
+        "price":"$1,299",
+        "link":"https:\/\/centrecom.com.au\/gigabyte-mo34wqc2-34-wqhd-oled-240hz-003ms-curved-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0179430_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VA2732-H-W 27\" FHD SuperClear IPS 100Hz Monitor - White",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-va2732-h-w-27-fhd-superclear-ips-100hz-monitor-white",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0186654_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraFine 32UQ85RV-W 32\u201d UHD 4K IPS 2000:1 Contrast Ratio Monitor",
+        "price":"$899",
+        "link":"https:\/\/centrecom.com.au\/lg-ultrafine-32uq85rv-w-32-uhd-4k-ips-20001-contrast-ratio-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0193619_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Viewsonic VA3208-4K-MHD 32\u201d 4K UHD SuperClear VA HDR10 Monitor",
+        "price":"$419",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-va3208-4k-mhd-32-4k-uhd-superclear-va-hdr10-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0194081_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer Predator X49 X 49\" DQHD OLED 240Hz FreeSync Curved Gaming Monitor",
+        "price":"$1,699",
+        "link":"https:\/\/centrecom.com.au\/acer-predator-x49-x-oled-49-dqhd-240hz-curved-freesync-gaming-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0194706_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Lenovo ThinkVision E24-30 23.8\" FHD IPS 100Hz Monitor",
+        "price":"$179",
+        "link":"https:\/\/centrecom.com.au\/lenovo-thinkvision-e24-30-238-fhd-ips-100hz-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0204135_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Box Damaged - LG UltraWide 38\" QHD+ IPS 144Hz G-SYNC FreeSync Curved Monitor",
+        "price":"$1,649",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-lg-ultrawide-38-qhd-ips-144hz-g-sync-freesync-curved-monitor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0214456_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED - BenQ GW2790 27\" FHD IPS 100Hz 5ms Home Monitor",
+        "price":"$162",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-benq-gw2790-27-fhd-ips-100hz-5ms-home-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0215578_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"HP Series 5 Pro 34\" WQHD VA 100Hz USB-C Curved Conferencing Monitor",
+        "price":"$939",
+        "link":"https:\/\/centrecom.com.au\/hp-series-5-pro-34-wqhd-va-usb-c-curved-conferencing-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0216169_thumb.png",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Box Damaged -  Philips 24E1N1100D 23.8\" FHD IPS 100Hz Adaptive Sync Monitor",
+        "price":"$99",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-philips-24e1n1100d-238-fhd-ips-100hz-adaptive-sync-monitor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0220326_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Acer EI491CRS 49\" DFHD 144Hz VA Curved Gaming Monitor",
+        "price":"$989",
+        "link":"https:\/\/centrecom.com.au\/acer-ei491crs-49-dfhd-144hz-va-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0219239_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - Gigabyte GS32QCA 31.5\" QHD VA 180Hz Curved Gaming Monitor",
+        "price":"$249",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-gigabyte-gs32qca-315-qhd-va-180hz-curved-gaming-monitor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0222411_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"BOX DAMAGED -  BenQ ZOWIE XL2540K 24.5\" Full HD 240Hz LED Gaming Monitor",
+        "price":"$429",
+        "link":"https:\/\/centrecom.com.au\/box-damaged-benq-zowie-xl2540k-245-full-hd-240hz-led-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0224413_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"ViewSonic VX2758A-2K-PRO-4 27\" QHD 180Hz SuperClear IPS FreeSync Gaming Monitor",
+        "price":"$329",
+        "link":"https:\/\/centrecom.com.au\/viewsonic-vx2758a-2k-pro-4-27-qhd-180hz-superclear-ips-freesync-gaming-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0225637_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"EX-DEMO - MSI PRO MP341CQ 34\" Ultra-wide QHD VA 100Hz Curved Business Monitor",
+        "price":"$305",
+        "link":"https:\/\/centrecom.com.au\/ex-demo-msi-pro-mp341cq-34-ultra-wide-qhd-va-100hz-curved-business-monitor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0227205_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    },
+    {
+        "product":"LG UltraGear 32\" QHD 165Hz HDR10 FreeSync Monitor",
+        "price":"$359",
+        "link":"https:\/\/centrecom.com.au\/lg-32-ultragear-qhd-165hz-hdr10-monitor-with-freesync-premium",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0117294_thumb.jpeg",
+        "category":"monitors",
+        "store":"centrecom"
+    }
+]

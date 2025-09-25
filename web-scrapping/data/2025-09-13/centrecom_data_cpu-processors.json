@@ -1,0 +1,498 @@
+[
+    {
+        "product":"Intel 12th Gen Core i5-12400F 6 Cores 12 Threads 4.4GHz LGA1700 Processor with CPU Cooler",
+        "price":"$164",
+        "link":"https:\/\/centrecom.com.au\/intel-12th-gen-core-i5-12400f-lga1700-desktop-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0114694_thumb.png",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i5-14400F 10 Cores 16 Threads 4.7GHz LGA1700 Processor",
+        "price":"$223",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i5-14400f-10-cores-16-threads-47ghz-lga1700-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0166902_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i7-12700 12 Cores 20 Threads 4.9GHz LGA1700 Processor with CPU Cooler",
+        "price":"$429",
+        "link":"https:\/\/centrecom.com.au\/intel-core-i7-12700-alder-lake-12c20t-49ghz-lga1700-processor-retail-box",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0122803_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 7 265KF 20 Cores 20 Threads 5.5GHz LGA1851 Processor",
+        "price":"$478",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-7-processor-265kf-20-cores-20-threads-55ghz-lga1851-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0194211_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 7800X3D AM5 8 Cores 16 Threads Processor",
+        "price":"$599",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-7800x3d-am5-5ghz-8c-16t-processor-without-cooler",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0147979_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 9800X3D 8 Cores 16 Threads 5.2GHz AM5 Processor",
+        "price":"$795",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-9800x3d-8-cores-16-threads-52ghz-am5-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0196923_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i7-12700F 4.9 GHz LGA1700 Desktop Processor with CPU Cooler",
+        "price":"$373",
+        "link":"https:\/\/centrecom.com.au\/intel-12th-gen-core-i7-12700f-49-ghz-lga1700-desktop-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0114703_thumb.png",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i7-14700KF 20 Cores 28 Threads 5.6GHz LGA1700 Processor",
+        "price":"$535",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i7-14700kf-20-cores-28-threads-56ghz-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0161351_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i7-14700K 20 Cores 28 Threads 5.6GHz LGA1700 Processor",
+        "price":"$569",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i7-14700k-20-cores-28-threads-56ghz-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0161352_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 5 Processor 225 10 Cores 10 Threads 4.9GHz LGA1851 Processor",
+        "price":"$307",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-5-processor-225-10-cores-10-threads-49ghz-lga1851-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0202533_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5600X 4.60GHz 6 Cores 12 Threads AM4 Processor with Wraith Stealth Cooler",
+        "price":"$175",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5600x-460ghz-6-cores-12-threads-am4-desktop-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0088201_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 9700X 8 Cores 16 Threads 5.5GHz AM5 Processor",
+        "price":"$536",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-9700x-8-cores-12-threads-55ghz-am5-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0185211_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i9-14900KF 24 Cores 32 Threads 6.0GHz LGA1700 Processor",
+        "price":"$715",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i9-14900kf-24-cores-32-threads-60ghz-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0161429_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 9 285K 24 Cores 24 Threads 5.7GHz LGA1851 Processor",
+        "price":"$999",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-9-processor-285k-24-cores-24-threads-57ghz-lga1851-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0194224_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 9950X3D 16 Cores 32 Threads 5.7GHz AM5 Gaming and Content Creation Processor",
+        "price":"$1,148",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-9950x3d-16-cores-32-threads-57ghz-gaming-and-content-creation-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0207244_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i7-14700F 20 Cores 28 Threads 5.4GHz LGA1700 Processor with CPU Cooler",
+        "price":"$473",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i7-14700f-20-cores-28-threads-54ghz-lga1700-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0166923_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5600GT 6 Cores 12 Threads 4.6GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$184",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5600gt-6-cores-12-threads-46ghz-am4-processor-with-cooler",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0168813_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i9-14900K 24 Cores 32 Threads 6.0GHz LGA1700 Processor",
+        "price":"$725",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i9-14900k-24-cores-32-threads-60ghz-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0161428_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 8500G AI 6 Cores 12 Threads 5.0GHz AM5 Processor with Wraith Stealth Cooler",
+        "price":"$227",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-8500g-ai-6-cores-12-threads-5ghz-am5-processor-with-cooler",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0168812_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 5 Processor 225F 10 Cores 10 Threads 4.9GHz LGA1851 Processor",
+        "price":"$287",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-5-processor-225f-10-cores-10-threads-49ghz-lga1851-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0202534_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 9 Processor 285 24 Cores 24 Threads 5.6GHz LGA1851 Processor",
+        "price":"$979",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-9-processor-285-24-cores-24-threads-56ghz-lga1851-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0202538_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 7600X 6 Cores 12 Threads 5.3GHz AM5 Processor without Cooler",
+        "price":"$344",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-7600x-6-cores-12-threads-up-to-53ghz-processor-without-cooler",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0133698_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i5-12400 6 Cores 12 Threads 4.40GHz LGA1700 Processor",
+        "price":"$229",
+        "link":"https:\/\/centrecom.com.au\/intel-12th-gen-core-i5-12400-lga1700-desktop-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0114697_thumb.png",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 9900X 12 Cores 24 Threads 5.6GHz AM5 Processor",
+        "price":"$695",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-9900x-12-cores-24-threads-56ghz-am5-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0185184_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 9950X 16 Cores 32 Threads 5.7GHz AM5 Processor",
+        "price":"$987",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-9950x-16-cores-32-threads-57ghz-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0187625_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 7700 5.3 GHz 8 Cores 16 Threads AM5 Processor with Wraith Prism Cooler",
+        "price":"$473",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-7700-53-ghz-8-core-am5-with-amd-wraith-prism",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0141545_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 7700X 8 Cores 16 Threads 5.4GHz AM5 Processor without Cooler",
+        "price":"$529",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-7700x-8-cores-16-threads-up-to-54ghz-without-cooler",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0133697_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 7 Processor 265F 20 Cores 20 Threads 5.3GHz LGA1851 Processor",
+        "price":"$539",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-7-processor-265f-20-cores-20-threads-53ghz-lga1851-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0202537_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen Threadripper PRO 7965WX 24 Cores 48 Threads 5.3GHz sTR5 Processor",
+        "price":"$4,539",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-threadripper-pro-7965wx-24-cores-48-threads-53ghz-str5-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0164827_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i7-12700KF 12 Cores 20 Threads 5.0GHz Unlocked Processor",
+        "price":"$379",
+        "link":"https:\/\/centrecom.com.au\/intel-core-i7-12700kf-lga-1700-unlocked-desktop-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0110139_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i3-12100 4 Core 8 Threads 4.3GHz LGA1700 Processor with CPU Cooler",
+        "price":"$169",
+        "link":"https:\/\/centrecom.com.au\/intel-12th-gen-core-i3-12100-4-core-8-thread-43ghz-lga1700-desktop-processor-retail-box",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0119357_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5600 6 Core 12 Threads Unlocked 4.4GHz AM4 65W Processor with Wraith Stealth Cooler",
+        "price":"$154",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5600-6c12t-unlocked-44ghz-am4-65w-with-wraith-stealth-cooler",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0120239_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i5-14600K 14 Cores 20 Threads 5.3GHz LGA1700 Processor",
+        "price":"$355",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i5-14600k-14-cores-20-threads-53ghz-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0161353_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i3-14100 4 Cores 8 Threads 4.7GHz LGA1700 Processor",
+        "price":"$189",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i3-14100-4-cores-8-threads-47ghz-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0166900_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i3-14100F 4 Cores 8 Threads 4.7GHz LGA1700 Processor",
+        "price":"$122",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i3-14100f-4-cores-8-threads-47ghz-lga1700-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0166901_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i5-14400 10 Cores 16 Threads 4.7GHz LGA1700 Processor",
+        "price":"$270",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i5-14400-10-cores-16-threads-47ghz-lga1700-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0166907_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5500GT 6 Cores 12 Threads 4.4GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$177",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5500gt-6-cores-12-threads-44ghz-processor-with-cooler",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0168814_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 9900X3D 12 Cores 24 Threads 5.5GHz AM5 Gaming and Content Creation Processor",
+        "price":"$939",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-9900x3d-12-cores-24-threads-55ghz-am5-gaming-and-content-creation-processor",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0207245_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5600XT 6 Cores 12 Threads 4.7GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$179",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5600xt-6-cores-12-threads-47ghz-am4-processor-with-wraith-stealth-cooler",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0210579_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i7-12700K Unlocked LGA1700 Processor",
+        "price":"$414",
+        "link":"https:\/\/centrecom.com.au\/intel-core-i7-12700k-unlocked-lga-1700-desktop-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0110124_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i5-12600K 10 Cores 16 Threads 4.9GHz LGA1700 Unlocked Processor",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/intel-core-i5-12600k-49ghz-unlocked-desktop-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0110136_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 12th Gen Core i3-12100F 4 Cores 8 Threads 4.3GHz LGA1700 Processor",
+        "price":"$95",
+        "link":"https:\/\/centrecom.com.au\/intel-12th-gen-core-i3-12100f-lga1700-alder-lake-boxed-cpu",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0119300_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 5700X 8 Core 16 Thread 4.6GHz AM4 Processor",
+        "price":"$263",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-5700x-8c16t-46ghz-36mb-cache-am4-65w-without-cooler",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0120238_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5500 6 Cores 12 Thread  4.2GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$116",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5500-6c12t-420ghz-am4-65w-with-wraith-stealth-cooler",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0120243_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 7900X 12 Cores 24 Threads 5.6GHz AM5 Processor",
+        "price":"$625",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-7900x-12-cores-24-threads-up-to-56ghz-without-cooler",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0133696_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 7600 6 Cores 12 Threads 5.1GHz AM5 Processor with Wraith Stealth Cooler",
+        "price":"$314",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-7600-52-ghz-6-core-am5-with-amd-wraith-stealth",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0141548_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i5-14600KF 14 Cores 20 Threads 5.3GHz LGA1700 Processor",
+        "price":"$355",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i5-14600kf-14-cores-20-threads-53ghz-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0161354_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel 14th Gen Core i7-14700 20 Cores 28 Threads 5.4GHz LGA1700 Processor",
+        "price":"$523",
+        "link":"https:\/\/centrecom.com.au\/intel-14th-gen-core-i7-14700-20-cores-28-threads-54ghz-lga1700-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0166908_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 8700G AI 8 Cores 16 Threads 5.1GHz AM5 Processors with Wraith Stealth Cooler",
+        "price":"$455",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-ai-7-8700g-8-cores-16-threads-51ghz-am5-processors-with-cooler",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0168774_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 5700 8 Cores 16 Threads 4.6GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$218",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-5700-8-cores-16-threads-46ghz-am4-processor-with-cooler",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0168772_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 8600G AI 6 Cores 12 Threads AM5 5.0GHz Processor with Wraith Stealth Cooler",
+        "price":"$292",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-8600g-ai-6-cores-12-threads-am5-50ghz-processor-with-cooler",
+        "image":"https:\/\/cdn1.centrecom.com.au\/images\/upload\/0168777_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 9600X 6 Cores 12 Threads 5.4GHz AM5 Processor",
+        "price":"$375",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-9600x-6-cores-12-threads-54ghz-am5-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0185208_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 5 Processor 245K 14 Cores 14 Threads 5.2GHz LGA1851 Processor",
+        "price":"$438",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-5-processor-245k-14-cores-14-threads-lga1851-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0194200_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 5 Processor 245KF 14 Cores 14 Threads 5.2GHz LGA1851 Processor",
+        "price":"$530",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-5-processor-245kf-14-cores-14-threads-52ghz-lga1851-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0194207_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 7 Processor 265K 20 Cores 20 Threads 5.5GHz LGA1851 Processor",
+        "price":"$527",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-7-processor-265k-20-cores-20-threads-55ghz-lga1851-processor",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0194208_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"Intel Core Ultra 7 Processor 265 20 Cores 20 Threads 5.3GHz LGA1851 Processor",
+        "price":"$628.5",
+        "link":"https:\/\/centrecom.com.au\/intel-core-ultra-7-processor-265-20-cores-20-threads-53ghz-lga1851-processor",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0202535_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 5 5600T 6 Cores 12 Threads 4.5GHz AM4 Processor with Wraith Stealth Cooler",
+        "price":"$253",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-5-5600t-6-cores-12-threads-45ghz-am4-processor-with-wraith-stealth-cooler",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0202648_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 7950X 16 Cores 32 Threads 5.7GHz AM5 Processor",
+        "price":"$829",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-7950x-16-cores-32-threads-up-to-57ghz-processor-without-cooler",
+        "image":"https:\/\/cdn3.centrecom.com.au\/images\/upload\/0133695_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 7900 12 Cores 24 Threads AM5 5.4 GHz Processor with Wraith Prism Cooler",
+        "price":"$586",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-7900-54-ghz-12-core-am5-with-amd-wraith-prism",
+        "image":"https:\/\/cdn0.centrecom.com.au\/images\/upload\/0141552_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Threadripper 7980X 64 Cores 128 Threads 5.1GHz sTR5 Processor",
+        "price":"$8,589",
+        "link":"https:\/\/centrecom.com.au\/amd-threadripper-7980x-64-cores-128-threads-51ghz-str5-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0164830_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 9 5900XT 16 Cores 32 Threads 4.8GHz AM4 Processor",
+        "price":"$559",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-9-5900xt-16-cores-32-threads-48ghz-am4-processor",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185210_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    },
+    {
+        "product":"AMD Ryzen 7 5800XT 8 Cores 16 Threads 4.8GHz AM4 Processor with Wraith Prism Cooler",
+        "price":"$339",
+        "link":"https:\/\/centrecom.com.au\/amd-ryzen-7-5800xt-8-cores-16-threads-48ghz-am4-processor-with-wraith-prism",
+        "image":"https:\/\/cdn2.centrecom.com.au\/images\/upload\/0185222_thumb.jpeg",
+        "category":"cpu-processors",
+        "store":"centrecom"
+    }
+]

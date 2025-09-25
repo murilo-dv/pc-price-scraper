@@ -1,0 +1,482 @@
+[
+    {
+        "product":"Intel Core i5 12400F 6 Core LGA 1700 CPU Processor (BX8071512400F)",
+        "price":"165.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202201\/thumb_img\/61652_thumb_G_1641774005838.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-12400f-6-core-lga-1700-cpu-processor-bx8071512400f-61652",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5-14400F 10 Core 4.70 GHz LGA 1700 Boxed CPU Processor (BX8071514400F)",
+        "price":"223.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i5-14400F-10-Core-4-70-GHz-LGA-1700-CPU-Processor-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-14400f-10-core-4-70-ghz-lga-1700-boxed-cpu-processor-bx8071514400f-75272",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 14700KF 20 Core LGA 1700 CPU Processor (BX8071514700KF)",
+        "price":"535.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i7-14700KF-20-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-14700kf-20-core-lga-1700-cpu-processor-bx8071514700kf-73063",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 14700K 20 Core LGA 1700 CPU Processor (BX8071514700K)",
+        "price":"569.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i7-14700K-20-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-14700k-20-core-lga-1700-cpu-processor-bx8071514700k-73062",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 14600KF 14 Core LGA 1700 CPU Processor (BX8071514600KF)",
+        "price":"355.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i5-14600KF-14-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-14600kf-14-core-lga-1700-cpu-processor-bx8071514600kf-73061",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 9800X3D 8 Core AM5 5.2GHz CPU Processor (100-100001084WOF)",
+        "price":"785.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202411\/thumb_img\/AMD-CPU-AMD-Ryzen-7-9800X3D-8-Core-AM5-5-2GHz-CPU-Processor-100-100001084WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-9800x3d-8-core-am5-5-2ghz-cpu-processor-100-100001084wof-80125",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 7800X3D 8 Core AM5 5GHz CPU Processor (100-100000910WOF)",
+        "price":"599.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202304\/thumb_img\/AMD-CPU-AMD-Ryzen-7-7800X3D-8-Core-AM5-4-2GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-7800x3d-8-core-am5-5ghz-cpu-processor-100-100000910wof-69583",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 9 9950X3D 16 Core AM5 5.7GHz CPU Processor (100-100000719WOF)",
+        "price":"1,148.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202503\/thumb_img\/AMD-CPU-AMD-Ryzen-9-9950X3D-16-Core-AM5-5-7GHz-CPU-Processor-100-100000719WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-9-9950x3d-16-core-am5-5-7ghz-cpu-processor-100-100000719wof-81996",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 7600 6 Core AM5 5.1GHz CPU Processor with Wraith Stealth Cooler (100-100001015BOX)",
+        "price":"314.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202301\/thumb_img\/AMD-CPU-AMD-Ryzen-5-7600-6-Core-AM5-5-2GHz-CPU-Processor-with-Wraith-Stealth-Cooler-9.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-7600-6-core-am5-5-1ghz-cpu-processor-with-wraith-stealth-cooler-100-100001015box-68285",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i9 14900K 24 Core LGA 1700 CPU Processor (BX8071514900K)",
+        "price":"725.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i9-14900K-24-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i9-14900k-24-core-lga-1700-cpu-processor-bx8071514900k-73064",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i9 14900KF 24 Core LGA 1700 CPU Processor (BX8071514900KF)",
+        "price":"715.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i9-14900KF-24-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i9-14900kf-24-core-lga-1700-cpu-processor-bx8071514900kf-73065",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 5500 6 Core AM4 4.20GHz CPU Processor with Wraith Stealth Cooler (100-100000457BOX)",
+        "price":"116.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202205\/thumb_img\/62861_thumb_G_1651545458527.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-5500-6-core-am4-4-20ghz-cpu-processor-with-wraith-stealth-cooler-100-100000457box-62861",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 12700F 12 Core LGA 1700 CPU Processor (BX8071512700F)",
+        "price":"373.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202201\/thumb_img\/61648_thumb_G_1641773790326.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-12700f-12-core-lga-1700-cpu-processor-bx8071512700f-61648",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7-14700F 20 Core LGA 1700 5.40GHz Boxed CPU Processor (BX8071514700F)",
+        "price":"475.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i7-14700F-20-Core-LGA-1700-5-40GHz-CPU-Processor-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-14700f-20-core-lga-1700-5-40ghz-boxed-cpu-processor-bx8071514700f-75271",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i9 12900KS 16 Core LGA 1700 CPU Processor (BX8071512900KS)",
+        "price":"499.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202408\/thumb_img\/Intel-CPU-Intel-Core-i9-12900KS-16-Core-LGA-1700-CPU-Processor-BX8071512900KS-7.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i9-12900ks-16-core-lga-1700-cpu-processor-bx8071512900ks-62809",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 5600 6 Core AM4 4.4Ghz CPU Processor with Wraith Stealth Cooler (100-100000927BOX)",
+        "price":"154.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202204\/thumb_img\/62808_thumb_G_1651109118576.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-5600-6-core-am4-4-4ghz-cpu-processor-with-wraith-stealth-cooler-100-100000927box-62808",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i3 12100F 4 Core LGA 1700 4.30 GHz CPU Processor (BX8071512100F)",
+        "price":"119.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202201\/thumb_img\/61800_thumb_G_1642039244239.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i3-12100f-4-core-lga-1700-4-30-ghz-cpu-processor-bx8071512100f-61800",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 5 225 10 Core LGA 1851 4.9GHz CPU Processor (BX80768225)",
+        "price":"307.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202501\/thumb_img\/Intel-CPU-Intel-Core-Ultra-5-225-10-Core-LGA-1851-4-9GHz-CPU-Processor-BX80768225-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-5-225-10-core-lga-1851-4-9ghz-cpu-processor-bx80768225-81275",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 5 225F 10 Core LGA 1851 4.9GHz CPU Processor (BX80768225F)",
+        "price":"287.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202501\/thumb_img\/Intel-CPU-Intel-Core-Ultra-5-225F-10-Core-LGA-1851-4-9GHz-CPU-Processor-BX80768225F-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-5-225f-10-core-lga-1851-4-9ghz-cpu-processor-bx80768225f-81276",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 7 20 Core LGA 1851 265KF 5.50GHz CPU Processor (BX80768265KF)",
+        "price":"478.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202410\/thumb_img\/Intel-CPU-Intel-Core-Ultra-7-20-Core-LGA-1851-265KF-5-50GHz-CPU-Processor-BX80768265KF-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-7-20-core-lga-1851-265kf-5-50ghz-cpu-processor-bx80768265kf-79655",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 9 9900X3D 12 Core AM5 5.5GHz CPU Processor (100-100001368WOF)",
+        "price":"941.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202503\/thumb_img\/AMD-CPU-AMD-Ryzen-9-9950X3D-12-Core-AM5-5-5GHz-CPU-Processor-100-100001368WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-9-9900x3d-12-core-am5-5-5ghz-cpu-processor-100-100001368wof-82018",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 9 24 Core LGA 1851 285K 5.70GHz CPU Processor (BX80768285K)",
+        "price":"999.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202410\/thumb_img\/Intel-CPU-Intel-Core-Ultra-9-24-Core-LGA-1851-285K-5-70GHz-CPU-Processor-BX80768285K-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-9-24-core-lga-1851-285k-5-70ghz-cpu-processor-bx80768285k-79654",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 12700KF 12 Core LGA 1700 CPU Processor (BX8071512700KF)",
+        "price":"389.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202111\/thumb_img\/61014_thumb_G_1636068504987.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-12700kf-12-core-lga-1700-cpu-processor-bx8071512700kf-61014",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 7600X 6 Core AM5 5.3GHz CPU Processor (100-100000593WOF)",
+        "price":"344.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202408\/thumb_img\/AMD-CPU-AMD-Ryzen-5-7600X-6-Core-AM5-5-3GHz-CPU-Processor-100-100000593WOF-11.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-7600x-6-core-am5-5-3ghz-cpu-processor-100-100000593wof-65058",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 7700 8 Core AM5 5.3 GHz CPU Processor with Wraith Prism Cooler (100-100000592BOX)",
+        "price":"473.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202301\/thumb_img\/AMD-CPU-AMD-Ryzen-7-7700-8-Core-AM5-5-3GHz-CPU-Processesor-with-Wraith-Prism-Cooler-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-7700-8-core-am5-5-3-ghz-cpu-processor-with-wraith-prism-cooler-100-100000592box-68284",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 5600GT 6 Core AM4 4.60GHz CPU Processor (100-100001488BOX)",
+        "price":"184.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202402\/thumb_img\/AMD-CPU-AMD-Ryzen-5-5600GT-6-Core-AM4-4-60GHz-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-5600gt-6-core-am4-4-60ghz-cpu-processor-100-100001488box-75736",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 7700X 8 Core AM5 5.4 GHz CPU Processor (100-100000591WOF)",
+        "price":"529.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202305\/thumb_img\/AMD-CPU-AMD-Ryzen-7-7700X-8-Core-AM5-4-5-GHz-CPU-Processor-9.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-7700x-8-core-am5-5-4-ghz-cpu-processor-100-100000591wof-65055",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 7 20 Core LGA 1851 265K 5.50GHz CPU Processor (BX80768265K)",
+        "price":"529.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202410\/thumb_img\/Intel-CPU-Intel-Core-Ultra-7-20-Core-LGA-1851-265K-5-50GHz-CPU-Processor-BX80768265K-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-7-20-core-lga-1851-265k-5-50ghz-cpu-processor-bx80768265k-79605",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 14600K 14 Core LGA 1700 CPU Processor (BX8071514600K)",
+        "price":"355.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202310\/thumb_img\/Intel-CPU-Intel-Core-i5-14600K-14-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-14600k-14-core-lga-1700-cpu-processor-bx8071514600k-73060",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Arrow Lake Ultra 7 265 LGA 1851 5.30GHz CPU Processor (BX80768265)",
+        "price":"549.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202502\/thumb_img\/Intel-CPU-Intel-Core-Arrow-Lake-Ultra-7-265-LGA-1851-5-30GHz-CPU-Processor-BX80768265-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-arrow-lake-ultra-7-265-lga-1851-5-30ghz-cpu-processor-bx80768265-81670",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 12600K 10 Core LGA 1700 CPU Processor (BX8071512600K)",
+        "price":"289.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202203\/thumb_img\/60998_thumb_G_1647473657156.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-12600k-10-core-lga-1700-cpu-processor-bx8071512600k-60998",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 9600X 6 Core AM5 5.40GHz CPU Processor (100-100001405WOF)",
+        "price":"374.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202407\/thumb_img\/AMD-CPU-AMD-Ryzen-5-9600X-6-Core-AM5-5-40GHz-CPU-Processor-100-100001405WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-9600x-6-core-am5-5-40ghz-cpu-processor-100-100001405wof-78588",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 5700X 8 Core AM4 4.6GHz CPU Processor (100-100000926WOF)",
+        "price":"263.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202408\/thumb_img\/AMD-CPU-AMD-Ryzen-7-5700X-8-Core-AM4-4-6GHz-CPU-Processor-100-100000926WOF-4.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-5700x-8-core-am4-4-6ghz-cpu-processor-100-100000926wof-62627",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 12600KF 10 Core LGA 1700 CPU Processor (BX8071512600KF)",
+        "price":"249.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202111\/thumb_img\/61015_thumb_G_1636068610176.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-12600kf-10-core-lga-1700-cpu-processor-bx8071512600kf-61015",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 8700G AI 8 Core AM5 5.10GHz CPU Processor (100-100001236BOX)",
+        "price":"455.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/AMD-CPU-AMD-Ryzen-7-8700G-AI-8-Core-AM5-5-10GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-8700g-ai-8-core-am5-5-10ghz-cpu-processor-100-100001236box-75731",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Arrow Lake Ultra 7 265F LGA 1851 5.30GHz CPU Processor (BX80768265F)",
+        "price":"554.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202502\/thumb_img\/Intel-CPU-Intel-Core-Arrow-Lake-Ultra-7-265F-LGA-1851-5-30GHz-CPU-Processor-BX80768265F-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-arrow-lake-ultra-7-265f-lga-1851-5-30ghz-cpu-processor-bx80768265f-81671",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i3 14100F 4 Core LGA 1700 CPU Processor (BX8071514100F)",
+        "price":"122.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i3-14100F-4-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i3-14100f-4-core-lga-1700-cpu-processor-bx8071514100f-75436",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 7 9700X 8 CORE AM5 5.50GHz CPU Processor (100-100001404WOF)",
+        "price":"536.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202407\/thumb_img\/AMD-CPU-AMD-Ryzen-7-9700X-8-CORE-AM5-5-50GHz-CPU-Processor-100-100001404WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-7-9700x-8-core-am5-5-50ghz-cpu-processor-100-100001404wof-78587",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 5600T 6 Core AM4 4.5GHz Boxed CPU Processor with AMD Wraith Stealth (100-100001584BOX)",
+        "price":"174.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202501\/thumb_img\/AMD-CPU-AMD-Ryzen-5-5600T-6-Core-AM4-4-5GHz-Boxed-CPU-Processor-with-AMD-Wraith-Stealth-100-100001584BOX-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-5600t-6-core-am4-4-5ghz-boxed-cpu-processor-with-amd-wraith-stealth-100-100001584box-81307",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 14700 20 Core LGA 1700 CPU Processor (BX8071514700)",
+        "price":"525.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202402\/thumb_img\/Intel-CPU-Intel-Core-i7-14700-20-Core-LGA-1700-CPU-Processor-2.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-14700-20-core-lga-1700-cpu-processor-bx8071514700-75858",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 9600 6 Core AM5 3.8GHz CPU Processor (100-100000718BOX)",
+        "price":"389.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202505\/thumb_img\/AMD-CPU-AMD-Ryzen-5-9600-6-Core-AM5-3-8GHz-CPU-Processor-100-100000718BOX-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-9600-6-core-am5-3-8ghz-cpu-processor-100-100000718box-83117",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 8600G AI 6 Core AM5 5.0GHz CPU Processor (100-100001237BOX)",
+        "price":"292.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/AMD-CPU-AMD-Ryzen-5-8600G-AI-6-Core-AM5-5-0GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-8600g-ai-6-core-am5-5-0ghz-cpu-processor-100-100001237box-75734",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 5 5500GT 6 Core AM4 4.40GHz CPU Processor (100-100001489BOX)",
+        "price":"176.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202402\/thumb_img\/AMD-CPU-AMD-Ryzen-5-5500GT-6-Core-AM4-4-40GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-5-5500gt-6-core-am4-4-40ghz-cpu-processor-100-100001489box-75737",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 9 9900X 12 Core AM5 5.60GHz CPU Processor (100-100000662WOF)",
+        "price":"695.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202407\/thumb_img\/AMD-CPU-AMD-Ryzen-9-9900X-12-Core-AM5-5-60GHz-CPU-Processor-100-100000662WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-9-9900x-12-core-am5-5-60ghz-cpu-processor-100-100000662wof-78586",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5-14400 10 Core 4.70GHz LGA 1700 Boxed CPU Processor (BX8071514400)",
+        "price":"275.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i5-14400-10-Core-4-70GHz-LGA-1700-CPU-Processor-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-14400-10-core-4-70ghz-lga-1700-boxed-cpu-processor-bx8071514400-75274",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 12700K 12 Core LGA 1700 CPU Processor (BX8071512700K)",
+        "price":"414.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202111\/thumb_img\/61134_thumb_G_1636068468813.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-12700k-12-core-lga-1700-cpu-processor-bx8071512700k-61134",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 9 7900 12 Core AM5 5.4GHz CPU Processor with Wraith Prism Cooler (100-100000590BOX)",
+        "price":"588.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202301\/thumb_img\/AMD-CPU-AMD-Ryzen-9-7900-12-Core-AM5-5-4GHz-CPU-Processor-with-Wraith-Prism-Cooler-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-9-7900-12-core-am5-5-4ghz-cpu-processor-with-wraith-prism-cooler-100-100000590box-68286",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 9 9950X 16-Core AM5 5.7 GHz CPU Processor (100-100001277WOF)",
+        "price":"987.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202408\/thumb_img\/AMD-CPU-AMD-Ryzen-9-9950X-16-Core-AM5-5-7-GHz-CPU-Processor-100-100001277WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-9-9950x-16-core-am5-5-7-ghz-cpu-processor-100-100001277wof-78838",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel 6 Core Xeon W-2135 3.70GHz 8.25MB Server CPU (BX80673W2135)",
+        "price":"99.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202503\/thumb_img\/Intel-6-Core-Xeon-W-2135-3-70GHz-8-25MB-Server-CPU-BX80673W2135-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-6-core-xeon-w-2135-3-70ghz-8-25mb-server-cpu-bx80673w2135-82243",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen 3 4100 4 Core AM4 4.0GHz CPU with Cooler (100-100000510BOX)",
+        "price":"105.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202408\/thumb_img\/AMD-CPU-AMD-Ryzen-3-4100-4-0GHz-AM4-CPU-with-Cooler-100-100000510BOX-9.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-3-4100-4-core-am4-4-0ghz-cpu-with-cooler-100-100000510box-66726",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"AMD Ryzen Threadripper Pro 7995WX 96-Core 192 Threads sTR5 CPU Processor (100-100000884WOF)",
+        "price":"16,999.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202505\/thumb_img\/AMD-CPU-AMD-Ryzen-Threadripper-Pro-7995WX-96-Core-192-Threads-sTR5-CPU-Processor-100-100000884WOF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/amd-ryzen-threadripper-pro-7995wx-96-core-192-threads-str5-cpu-processor-100-100000884wof-83138",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 5 14 Core LGA 1851 245K 5.20GHz CPU Processor (BX80768245K)",
+        "price":"438.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202410\/thumb_img\/Intel-CPU-Intel-Core-Ultra-5-14-Core-LGA-1851-245K-5-20GHz-CPU-Processor-BX80768245K-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-5-14-core-lga-1851-245k-5-20ghz-cpu-processor-bx80768245k-79656",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core Ultra 5 14 Core LGA 1851 245KF 5.20GHz CPU Processor (BX80768245KF)",
+        "price":"459.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202410\/thumb_img\/Intel-CPU-Intel-Core-Ultra-5-14-Core-LGA-1851-245KF-5-20GHz-CPU-Processor-BX80768245KF-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-ultra-5-14-core-lga-1851-245kf-5-20ghz-cpu-processor-bx80768245kf-79657",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5-14500 14 Core 5.00 GHz LGA 1700 Boxed CPU Processor (BX8071514500)",
+        "price":"398.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i5-14500-14-Core-5-00-GHz-LGA-1700-CPU-Processor-4.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-14500-14-core-5-00-ghz-lga-1700-boxed-cpu-processor-bx8071514500-75332",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i3 12100 4 Core LGA 1700 4.30 GHz CPU Processor (BX8071512100)",
+        "price":"159.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202203\/thumb_img\/62499_thumb_G_1647908305193.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i3-12100-4-core-lga-1700-4-30-ghz-cpu-processor-bx8071512100-62499",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i3-14100 4 Core 4.70 GHz LGA 1700 Boxed CPU Processor (BX8071514100)",
+        "price":"185.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202401\/thumb_img\/Intel-CPU-Intel-Core-i3-14100-4-Core-4-70-GHz-LGA-1700-CPU-Processor-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i3-14100-4-core-4-70-ghz-lga-1700-boxed-cpu-processor-bx8071514100-75275",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i7 13700K 16 Core LGA 1700 CPU Processor (BX8071513700K)",
+        "price":"499.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202210\/thumb_img\/Intel-CPU-Intel-Core-i7-13700KF-16-Core-LGA-1700-5-4GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i7-13700k-16-core-lga-1700-cpu-processor-bx8071513700k-65496",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 13600KF 14 Core LGA 1700 CPU Processor (BX8071513600KF)",
+        "price":"329.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202210\/thumb_img\/Intel-CPU-Intel-Core-i5-13600KF-14-Core-LGA-1700-5-1GHz-CPU-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-13600kf-14-core-lga-1700-cpu-processor-bx8071513600kf-65497",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i5 13600K 14 Core LGA 1700 CPU Processor (BX8071513600K)",
+        "price":"339.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202210\/thumb_img\/Intel-CPU-Intel-Core-i5-13600K-14-Core-LGA-1700-5-1GHz-CPu-Processor-3.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i5-13600k-14-core-lga-1700-cpu-processor-bx8071513600k-65498",
+        "category":"cpu-processors",
+        "store":"umart"
+    },
+    {
+        "product":"Intel Core i3 13100F 4 Core LGA 1700 4.50GHz CPU Processor (BX8071513100F)",
+        "price":"119.0",
+        "image":"https:\/\/assets.umart.com.au\/newsite\/images\/202301\/thumb_img\/Intel-CPU-Intel-Core-i3-13100F-4-Core-LGA-1700-4-50GHz-CPU-Processor-1.jpg",
+        "link":"https:\/\/umart.com.au\/product\/intel-core-i3-13100f-4-core-lga-1700-4-50ghz-cpu-processor-bx8071513100f-68191",
+        "category":"cpu-processors",
+        "store":"umart"
+    }
+]
