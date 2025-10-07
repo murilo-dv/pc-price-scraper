@@ -14,3 +14,7 @@ services:
     command: npm start
     networks:
       - webnet
+
+networks:
+  webnet:
+    external: true
